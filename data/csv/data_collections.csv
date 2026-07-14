@@ -1,0 +1,1102 @@
+﻿record_type,object_id,data_collection_id,source_document_id,process,short_title,long_title,description,foundation_document_title,foundation_document_urls,data_sender,data_receiver,collection_method,data_source,format,data_structure,transmission_method,transmission_urls,frequency,text,catalog_level,parent_collection_title,display_title
+data_collection,DC_002_DIREKTZAHLUNGEN_EINKOMMENSGRUNDSTUTZUNG_EG,DC_002_DIREKTZAHLUNGEN_EINKOMMENSGRUNDSTUTZUNG_EG,SRC_GESETZ_ZUR_DURCHFUHRUNG_DER_IM_RAHMEN_DER_,Einreichung des Gemeinsamen Antrags,"Direktzahlungen (Einkommensgrundstützung EGS, Umverteilungs‑Einkommensstützung UES, Junglandwirte‑Einkommensstützung JES, Öko‑Regelungen, gekoppelte Prämien)",GAP‑Direktzahlungen‑Gesetz (GAPDZG) vom 16.07.2021; GAP‑Direktzahlungen‑Verordnung (GAPDZV) vom 24.01.2022; GAP‑InVeKoS‑Verordnung (GAPInVeKoSV) vom 19.12.2022; Zweite GAP‑RefVO BW (landesrechtliche Verordnung über die Verwendung von EU‑Mittel in Baden‑Württemberg).,"Antragsdaten zu Betrieb, Flächen, Fördermaßnahmen und hochgeladenen Nachweisen","Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Direktzahlungen (GAP-Direktzahlungen-Gesetz - GAPDZG)
+Verordnung zur Durchführung der GAP-Direktzahlungen (GAP-Direktzahlungen-Verordnung - GAPDZV)
+Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung - GAPInVeKoSV)
+Zweite GAP‑RefVO BW (PDF des Landesrecht BW)",https://www.gesetze-im-internet.de/gapdzg/BJNR300300021.html; https://www.gesetze-im-internet.de/gapdzv/BJNR013900022.html; https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html; https://www.landtag-bw.de/resource/blob/216204/2fafb20c9c1ef85ec869b734233b18f4/GBl2024062.pdf,Erzeugender Betrieb,MLR Referat 25,Manuelle Eingabe und Upload im Onlineportal,Betriebsangaben; Flächen- und Förderinformationen,HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads,Onlineübermittlung über FIONA [2],https://fiona.landbw.de/,Jährlich,"Direktzahlungen (Einkommensgrundstützung EGS, Umverteilungs‑Einkommensstützung UES, Junglandwirte‑Einkommensstützung JES, Öko‑Regelungen, gekoppelte Prämien)
+Direktzahlungen (Einkommensgrundstützung EGS, Umverteilungs‑Einkommensstützung UES, Junglandwirte‑Einkommensstützung JES, Öko‑Regelungen, gekoppelte Prämien)
+GAP‑Direktzahlungen‑Gesetz (GAPDZG) vom 16.07.2021; GAP‑Direktzahlungen‑Verordnung (GAPDZV) vom 24.01.2022; GAP‑InVeKoS‑Verordnung (GAPInVeKoSV) vom 19.12.2022; Zweite GAP‑RefVO BW (landesrechtliche Verordnung über die Verwendung von EU‑Mittel in Baden‑Württemberg).
+Antragsdaten zu Betrieb, Flächen, Fördermaßnahmen und hochgeladenen Nachweisen
+Gesetz zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Direktzahlungen (GAP-Direktzahlungen-Gesetz - GAPDZG)
+Verordnung zur Durchführung der GAP-Direktzahlungen (GAP-Direktzahlungen-Verordnung - GAPDZV)
+Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung - GAPInVeKoSV)
+Zweite GAP‑RefVO BW (PDF des Landesrecht BW)
+Erzeugender Betrieb
+MLR Referat 25
+Manuelle Eingabe und Upload im Onlineportal
+Betriebsangaben; Flächen- und Förderinformationen
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads
+Onlineübermittlung über FIONA [2]
+Jährlich",,,"Direktzahlungen (Einkommensgrundstützung EGS, Umverteilungs‑Einkommensstützung UES, Junglandwirte‑Einkommensstützung JES, Öko‑Regelungen, gekoppelte Prämien)"
+data_collection,DC_003_FAKT_II_FORDERPROGRAMM_FUR_AGRARUMWELT_KLI,DC_003_FAKT_II_FORDERPROGRAMM_FUR_AGRARUMWELT_KLI,SRC_VERWALTUNGSVORSCHRIFT_VWV_FAKT_II_IM_LANDE,Einreichung des Gemeinsamen Antrags,"FAKT II – Förderprogramm für Agrarumwelt, Klimaschutz und Tierwohl","Die Seite verweist auf die Verwaltungsvorschrift des Ministeriums für Ernährung, Ländlichen Raum und Verbraucherschutz BW (VwV FAKT II); darin sind die allgemeinen Bedingungen, förderfähigen Maßnahmen, Voraussetzungen sowie Art und Höhe der Förderung festgelegt. Außerdem sind die EU‑Grundverordnung (Verordnung (EU) 2021/2115) und der genehmigte GAP‑Strategieplan Deutschlands (2023–2027) rechtliche Grundlage.",Antrags- und Nachweisdaten zur Teilnahme an FAKT II-Maßnahmen im Gemeinsamen Antrag,"Verwaltungsvorschrift (VwV FAKT II) im Landesrecht BW
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013",https://landesrecht-bw.de/bsbw/document/VBW-VVBW00042398; https://eur-lex.europa.eu/eli/reg/2021/2115/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"FAKT II – Förderprogramm für Agrarumwelt, Klimaschutz und Tierwohl
+FAKT II – Förderprogramm für Agrarumwelt, Klimaschutz und Tierwohl
+Die Seite verweist auf die Verwaltungsvorschrift des Ministeriums für Ernährung, Ländlichen Raum und Verbraucherschutz BW (VwV FAKT II); darin sind die allgemeinen Bedingungen, förderfähigen Maßnahmen, Voraussetzungen sowie Art und Höhe der Förderung festgelegt. Außerdem sind die EU‑Grundverordnung (Verordnung (EU) 2021/2115) und der genehmigte GAP‑Strategieplan Deutschlands (2023–2027) rechtliche Grundlage.
+Antrags- und Nachweisdaten zur Teilnahme an FAKT II-Maßnahmen im Gemeinsamen Antrag
+Verwaltungsvorschrift (VwV FAKT II) im Landesrecht BW
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,"FAKT II – Förderprogramm für Agrarumwelt, Klimaschutz und Tierwohl"
+data_collection,DC_004_AUSGLEICHSZULAGE_AZL,DC_004_AUSGLEICHSZULAGE_AZL,SRC_VWV_AZL_IM_LANDESRECHT_BW_VERORDNUNG_EU_20,Einreichung des Gemeinsamen Antrags,Ausgleichszulage (AZL),Die AZL‑Seite nennt als Rechtsgrundlage die Verwaltungsvorschrift Ausgleichszulage Landwirtschaft des Landes BW (VwV AZL) und verweist auf den nationalen GAP‑Strategieplan. Außerdem gelten die Artikeln 12–13 und Anhang III der EU‑Verordnung (EU) 2021/2115 und die landesrechtliche Konditionalitäts‑Verordnung (GAPKondV).,Antrags- und Flächendaten zur Ausgleichszulage in benachteiligten Gebieten,"VwV AZL im Landesrecht BW
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013",https://landesrecht-bw.de/bsbw/document/VVBW-VVBW00022851; https://eur-lex.europa.eu/eli/reg/2021/2115/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"Ausgleichszulage (AZL)
+Ausgleichszulage (AZL)
+Die AZL‑Seite nennt als Rechtsgrundlage die Verwaltungsvorschrift Ausgleichszulage Landwirtschaft des Landes BW (VwV AZL) und verweist auf den nationalen GAP‑Strategieplan. Außerdem gelten die Artikeln 12–13 und Anhang III der EU‑Verordnung (EU) 2021/2115 und die landesrechtliche Konditionalitäts‑Verordnung (GAPKondV).
+Antrags- und Flächendaten zur Ausgleichszulage in benachteiligten Gebieten
+VwV AZL im Landesrecht BW
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,Ausgleichszulage (AZL)
+data_collection,DC_005_LANDSCHAFTSPFLEGERICHTLINIE_LPR_A,DC_005_LANDSCHAFTSPFLEGERICHTLINIE_LPR_A,SRC_LPR_RICHTLINIE_TEIL_A_VWV_LPR_A_IM_LANDESR,Einreichung des Gemeinsamen Antrags,Landschaftspflegerichtlinie (LPR‑A),Der LPR‑A‑Teil verweist auf die Landschaftspflegerichtlinie Teil A und die zugehörigen Verwaltungsvorschriften des Landes BW. Die Grundlage ist der genehmigte GAP‑Strategieplan und Art. 58 der Verordnung (EU) 2021/2115.,Antrags- und Vertragsdaten zu Maßnahmen nach Landschaftspflegerichtlinie Teil A,"LPR‑Richtlinie Teil A (VwV LPR‑A) im Landesrecht BW
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013",https://landesrecht-bw.de/bsbw/document/VVBW-VVBW00021077; https://eur-lex.europa.eu/eli/reg/2021/2115/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"Landschaftspflegerichtlinie (LPR‑A)
+Landschaftspflegerichtlinie (LPR‑A)
+Der LPR‑A‑Teil verweist auf die Landschaftspflegerichtlinie Teil A und die zugehörigen Verwaltungsvorschriften des Landes BW. Die Grundlage ist der genehmigte GAP‑Strategieplan und Art. 58 der Verordnung (EU) 2021/2115.
+Antrags- und Vertragsdaten zu Maßnahmen nach Landschaftspflegerichtlinie Teil A
+LPR‑Richtlinie Teil A (VwV LPR‑A) im Landesrecht BW
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,Landschaftspflegerichtlinie (LPR‑A)
+data_collection,DC_006_UMWELTZULAGE_WALD_UZW,DC_006_UMWELTZULAGE_WALD_UZW,SRC_VWV_UZW_IM_LANDESRECHT_BW_RICHTLINIE_92_43,Einreichung des Gemeinsamen Antrags,Umweltzulage Wald (UZW),Der UZW‑Abschnitt beschreibt die Verwaltungsvorschrift des MLR zur Umweltzulage Wald (UZW) als rechtliche Basis. Außerdem werden die Natura‑2000‑Richtlinien (FFH‑Richtlinie 92/43/EWG und Vogelschutz‑Richtlinie 2009/147/EG) sowie landesrechtliche Konditionalitäts‑Regelungen genannt.,Antrags- und Flächendaten zur Umweltzulage Wald,"VwV UZW im Landesrecht BW
+Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen
+Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten",https://landesrecht-bw.de/bsbw/document/VVBW-VVBW00022853; https://eur-lex.europa.eu/eli/dir/1992/43/oj; https://eur-lex.europa.eu/eli/dir/2009/147/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"Umweltzulage Wald (UZW)
+Umweltzulage Wald (UZW)
+Der UZW‑Abschnitt beschreibt die Verwaltungsvorschrift des MLR zur Umweltzulage Wald (UZW) als rechtliche Basis. Außerdem werden die Natura‑2000‑Richtlinien (FFH‑Richtlinie 92/43/EWG und Vogelschutz‑Richtlinie 2009/147/EG) sowie landesrechtliche Konditionalitäts‑Regelungen genannt.
+Antrags- und Flächendaten zur Umweltzulage Wald
+VwV UZW im Landesrecht BW
+Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen
+Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,Umweltzulage Wald (UZW)
+data_collection,DC_007_UMSTRUKTURIERUNG_UND_UMSTELLUNG_VON_REBFLA,DC_007_UMSTRUKTURIERUNG_UND_UMSTELLUNG_VON_REBFLA,SRC_VWV_FORDERUNG_WEINBAU_UUU_IM_LANDESRECHT_B,Einreichung des Gemeinsamen Antrags,Umstrukturierung und Umstellung von Rebflächen (UuU),Rechtsgrundlage ist der Artikel 58 der Verordnung (EU) 2021/2115 (Weinbauförderung) sowie die Verwaltungsvorschrift Förderung Weinbau des Landes BW (VwV Weinbau).,Antrags- und Rebflächendaten zur Umstrukturierung und Umstellung von Rebflächen,"VwV Förderung Weinbau (UuU) im Landesrecht BW
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013",https://landesrecht-bw.de/bsbw/document/VVBW-VVBW00035850; https://eur-lex.europa.eu/eli/reg/2021/2115/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"Umstrukturierung und Umstellung von Rebflächen (UuU)
+Umstrukturierung und Umstellung von Rebflächen (UuU)
+Rechtsgrundlage ist der Artikel 58 der Verordnung (EU) 2021/2115 (Weinbauförderung) sowie die Verwaltungsvorschrift Förderung Weinbau des Landes BW (VwV Weinbau).
+Antrags- und Rebflächendaten zur Umstrukturierung und Umstellung von Rebflächen
+VwV Förderung Weinbau (UuU) im Landesrecht BW
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,Umstrukturierung und Umstellung von Rebflächen (UuU)
+data_collection,DC_008_PHEROMONVERFAHREN_IM_WEINBAU_PHW,DC_008_PHEROMONVERFAHREN_IM_WEINBAU_PHW,SRC_VWV_PHW_HANDBUCH_PHEROMONFORDERUNG_IM_LAND,Einreichung des Gemeinsamen Antrags,Pheromonverfahren im Weinbau (PHW),Die Seite nennt die Verwaltungsvorschrift Pheromonförderung Weinbau (VwV PHW) des Landes BW sowie die für Beihilfen einschlägige Verordnung (EU) 2022/2472 über Gruppenfreistellungen für KMU.,Antrags- und Flächendaten zur Förderung des Pheromonverfahrens im Weinbau,"VwV PHW (Handbuch Pheromonförderung) im Landesrecht BW
+Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union",https://landesrecht-bw.de/bsbw/document/VVBW-VVBW00025313; https://eur-lex.europa.eu/eli/reg/2022/2472/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"Pheromonverfahren im Weinbau (PHW)
+Pheromonverfahren im Weinbau (PHW)
+Die Seite nennt die Verwaltungsvorschrift Pheromonförderung Weinbau (VwV PHW) des Landes BW sowie die für Beihilfen einschlägige Verordnung (EU) 2022/2472 über Gruppenfreistellungen für KMU.
+Antrags- und Flächendaten zur Förderung des Pheromonverfahrens im Weinbau
+VwV PHW (Handbuch Pheromonförderung) im Landesrecht BW
+Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,Pheromonverfahren im Weinbau (PHW)
+data_collection,DC_009_HANDARBEITSWEINBAU_HWB,DC_009_HANDARBEITSWEINBAU_HWB,SRC_VWV_HWB_IM_LANDESRECHT_BW_VERORDNUNG_EU_20,Einreichung des Gemeinsamen Antrags,Handarbeitsweinbau (HWB),Grundlage ist die Verwaltungsvorschrift Förderung Handarbeitsweinbau vom 31.08.2017 (VwV HWB). Ergänzend wird die allgemeine EU‑De‑minimis-Verordnung (EU) 2022/2472 erwähnt.,Antrags- und Rebflächendaten zur Förderung des Handarbeitsweinbaus,"VwV HWB im Landesrecht BW
+Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union",https://landesrecht-bw.de/bsbw/document/VVBW-VVBW00011686; https://eur-lex.europa.eu/eli/reg/2022/2472/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"Handarbeitsweinbau (HWB)
+Handarbeitsweinbau (HWB)
+Grundlage ist die Verwaltungsvorschrift Förderung Handarbeitsweinbau vom 31.08.2017 (VwV HWB). Ergänzend wird die allgemeine EU‑De‑minimis-Verordnung (EU) 2022/2472 erwähnt.
+Antrags- und Rebflächendaten zur Förderung des Handarbeitsweinbaus
+VwV HWB im Landesrecht BW
+Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,Handarbeitsweinbau (HWB)
+data_collection,DC_010_STEILLAGENFORDERUNG_DAUERGRUNLAND_SLG,DC_010_STEILLAGENFORDERUNG_DAUERGRUNLAND_SLG,SRC_VWV_SLG_IM_LANDESRECHT_BW_VERORDNUNG_EU_NR,Einreichung des Gemeinsamen Antrags,Steillagenförderung Dauergrünland (SLG),Die SLG‑Seite verweist auf die Verwaltungsvorschrift Steillagenförderung Grünland (VwV SLG) und auf die Landeshaushaltsordnung (§§ 23 und 44 LHO) sowie die EU‑De‑minimis-Verordnung (EU) 1408/2013 (Agrar‑de‑minimis).,Antrags- und Flächendaten zur Steillagenförderung Dauergrünland,"VwV SLG im Landesrecht BW
+Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor",https://landesrecht-bw.de/bsbw/document/VVBW-VVBW00024685; https://eur-lex.europa.eu/eli/reg/2013/1408/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"Steillagenförderung Dauergrünland (SLG)
+Steillagenförderung Dauergrünland (SLG)
+Die SLG‑Seite verweist auf die Verwaltungsvorschrift Steillagenförderung Grünland (VwV SLG) und auf die Landeshaushaltsordnung (§§ 23 und 44 LHO) sowie die EU‑De‑minimis-Verordnung (EU) 1408/2013 (Agrar‑de‑minimis).
+Antrags- und Flächendaten zur Steillagenförderung Dauergrünland
+VwV SLG im Landesrecht BW
+Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,Steillagenförderung Dauergrünland (SLG)
+data_collection,DC_011_ERSCHWERNISAUSGLEICH_PFLANZENSCHUTZ_EAPS,DC_011_ERSCHWERNISAUSGLEICH_PFLANZENSCHUTZ_EAPS,SRC_VWV_EAPS_IM_LANDESRECHT_BW_VERORDNUNG_UBER,Einreichung des Gemeinsamen Antrags,Erschwernisausgleich Pflanzenschutz (EAPS),"Als Rechtsgrundlagen werden die Verwaltungsvorschrift des MLR zum EAPS (VwV EAPS), die FFH‑Richtlinie 92/43/EWG, die Vogelschutz‑Richtlinie 2009/147/EG, § 4 Pflanzenschutz‑Anwendungsverordnung und § 30 Bundesnaturschutzgesetz sowie die Verordnung (EU) 2021/2115 genannt.","Antrags-, Flächen- und Nachweisdaten zum Erschwernisausgleich Pflanzenschutz","VwV EAPS im Landesrecht BW
+Verordnung über Anwendungsverbote für Pflanzenschutzmittel (Pflanzenschutz-Anwendungsverordnung - PflSchAnwV)
+Gesetz über Naturschutz und Landschaftspflege (Bundesnaturschutzgesetz - BNatSchG)
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013
+Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen
+Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten",https://landesrecht-bw.de/bsbw/document/VVBW-VVBW00025314; https://www.gesetze-im-internet.de/pflschanwv_2022/index.html; https://www.gesetze-im-internet.de/bnatschg_2009/__30.html; https://eur-lex.europa.eu/eli/reg/2021/2115/oj; https://eur-lex.europa.eu/eli/dir/1992/43/oj; https://eur-lex.europa.eu/eli/dir/2009/147/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"Erschwernisausgleich Pflanzenschutz (EAPS)
+Erschwernisausgleich Pflanzenschutz (EAPS)
+Als Rechtsgrundlagen werden die Verwaltungsvorschrift des MLR zum EAPS (VwV EAPS), die FFH‑Richtlinie 92/43/EWG, die Vogelschutz‑Richtlinie 2009/147/EG, § 4 Pflanzenschutz‑Anwendungsverordnung und § 30 Bundesnaturschutzgesetz sowie die Verordnung (EU) 2021/2115 genannt.
+Antrags-, Flächen- und Nachweisdaten zum Erschwernisausgleich Pflanzenschutz
+VwV EAPS im Landesrecht BW
+Verordnung über Anwendungsverbote für Pflanzenschutzmittel (Pflanzenschutz-Anwendungsverordnung - PflSchAnwV)
+Gesetz über Naturschutz und Landschaftspflege (Bundesnaturschutzgesetz - BNatSchG)
+Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnungen (EU) Nr. 1305/2013 und (EU) Nr. 1307/2013
+Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen
+Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,Erschwernisausgleich Pflanzenschutz (EAPS)
+data_collection,DC_012_SCHALVO_AUSGLEICH_FUR_NUTZUNGSBESCHRANKUNG,DC_012_SCHALVO_AUSGLEICH_FUR_NUTZUNGSBESCHRANKUNG,SRC_SCHALVO_LANDESRECHT_BW_RICHTLINIE_91_676_E,Einreichung des Gemeinsamen Antrags,SchALVO – Ausgleich für Nutzungsbeschränkungen in Wasserschutzgebieten,"Die Seite bezieht sich auf die SchALVO (Schutzgebiets‑ und Ausgleichs‑Verordnung BW vom 20.02.2001), die EU‑Nitratrichtlinie 91/676/EWG sowie die Entscheidung der EU‑Kommission vom 12.11.2019 über SchALVO‑Ausgleichszahlungen.",Antrags- und Flächendaten zum SchALVO-Ausgleich in Wasserschutzgebieten,"SchALVO (Landesrecht BW)
+Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen
+Beschluss (EU) 2019/1885 der Kommission vom 12. November 2019 über die Beihilferegelung SA.45974 (2019/N) - Deutschland - Ausgleichszahlungen in Wasserschutzgebieten in Baden-Württemberg",https://landesrecht-bw.de/bsbw/document/jlr-SchALVOBW2001rahmen; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A31991L0676; https://eur-lex.europa.eu/eli/dec/2019/1885/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"SchALVO – Ausgleich für Nutzungsbeschränkungen in Wasserschutzgebieten
+SchALVO – Ausgleich für Nutzungsbeschränkungen in Wasserschutzgebieten
+Die Seite bezieht sich auf die SchALVO (Schutzgebiets‑ und Ausgleichs‑Verordnung BW vom 20.02.2001), die EU‑Nitratrichtlinie 91/676/EWG sowie die Entscheidung der EU‑Kommission vom 12.11.2019 über SchALVO‑Ausgleichszahlungen.
+Antrags- und Flächendaten zum SchALVO-Ausgleich in Wasserschutzgebieten
+SchALVO (Landesrecht BW)
+Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen
+Beschluss (EU) 2019/1885 der Kommission vom 12. November 2019 über die Beihilferegelung SA.45974 (2019/N) - Deutschland - Ausgleichszahlungen in Wasserschutzgebieten in Baden-Württemberg
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,SchALVO – Ausgleich für Nutzungsbeschränkungen in Wasserschutzgebieten
+data_collection,DC_013_CROSS_COMPLIANCE_CC_VERPFLICHTUNGEN_WBF,DC_013_CROSS_COMPLIANCE_CC_VERPFLICHTUNGEN_WBF,SRC_VERORDNUNG_EU_NR_1308_2013_DES_EUROPAISCHE,Einreichung des Gemeinsamen Antrags,Cross‑Compliance/CC‑Verpflichtungen (WBF),"Rechtsgrundlage für die CC‑Verpflichtungen sind Art. 46 der Verordnung (EU) Nr. 1308/2013 (Gemeinsame Marktorganisation), Art. 104 der Verordnung (EU) 2021/2116 (Finanzdisziplin der GAP) sowie die Delegierte Verordnung (EU) 640/2014 und die Durchführungsverordnung (EU) 809/2014.",Angaben und Nachweise zu Cross-Compliance-/Konditionalitätsverpflichtungen im Förderkontext,"Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse
+Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013
+Delegierte Verordnung (EU) Nr. 640/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates
+Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates",https://eur-lex.europa.eu/eli/reg/2013/1308/oj; https://eur-lex.europa.eu/eli/reg/2021/2116/oj; https://eur-lex.europa.eu/eli/reg_del/2014/640/oj; https://eur-lex.europa.eu/eli/reg_impl/2014/809/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"Cross‑Compliance/CC‑Verpflichtungen (WBF)
+Cross‑Compliance/CC‑Verpflichtungen (WBF)
+Rechtsgrundlage für die CC‑Verpflichtungen sind Art. 46 der Verordnung (EU) Nr. 1308/2013 (Gemeinsame Marktorganisation), Art. 104 der Verordnung (EU) 2021/2116 (Finanzdisziplin der GAP) sowie die Delegierte Verordnung (EU) 640/2014 und die Durchführungsverordnung (EU) 809/2014.
+Angaben und Nachweise zu Cross-Compliance-/Konditionalitätsverpflichtungen im Förderkontext
+Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse
+Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr. 1306/2013
+Delegierte Verordnung (EU) Nr. 640/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates
+Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,Cross‑Compliance/CC‑Verpflichtungen (WBF)
+data_collection,DC_014_DE_MINIMIS_BEIHILFEN,DC_014_DE_MINIMIS_BEIHILFEN,SRC_VERORDNUNG_EU_NR_1408_2013_DER_KOMMISSION_,Einreichung des Gemeinsamen Antrags,De‑Minimis‑Beihilfen,"Als Grundlage gelten die EU‑De‑minimis‑Verordnungen für den Agrarsektor, insbesondere Verordnung (EU) 1408/2013 (Agrar‑de‑minimis), Verordnung (EU) 2023/2831, Verordnung (EU) 717/2014 und Verordnung (EU) 2023/2832.",Angaben zu De-minimis-relevanten Beihilfen im Förderkontext,"Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor
+Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen
+Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor
+Verordnung (EU) 2023/2832 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen",https://eur-lex.europa.eu/eli/reg/2013/1408/oj; https://eur-lex.europa.eu/eli/reg/2023/2831/oj; https://eur-lex.europa.eu/eli/reg/2014/717/oj; https://eur-lex.europa.eu/eli/reg/2023/2832/oj,Erzeugender Betrieb,zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg,Manuelle Eingabe und Upload im Onlineportal FIONA,"Betriebs-, Flächen-, Förder- und Nachweisdaten",HTML; PDF; Upload-Datei,Onlineformular; Nachweisuploads; Verwaltungsdaten,Onlineübermittlung über FIONA,https://fiona.landbw.de/,Jährlich; anlassbezogen bei Nachforderungen,"De‑Minimis‑Beihilfen
+De‑Minimis‑Beihilfen
+Als Grundlage gelten die EU‑De‑minimis‑Verordnungen für den Agrarsektor, insbesondere Verordnung (EU) 1408/2013 (Agrar‑de‑minimis), Verordnung (EU) 2023/2831, Verordnung (EU) 717/2014 und Verordnung (EU) 2023/2832.
+Angaben zu De-minimis-relevanten Beihilfen im Förderkontext
+Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor
+Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen
+Verordnung (EU) Nr. 717/2014 der Kommission vom 27. Juni 2014 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Fischerei- und Aquakultursektor
+Verordnung (EU) 2023/2832 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen an Unternehmen, die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen
+Erzeugender Betrieb
+zuständige untere Landwirtschaftsbehörde / MLR Baden-Württemberg
+Manuelle Eingabe und Upload im Onlineportal FIONA
+Betriebs-, Flächen-, Förder- und Nachweisdaten
+HTML; PDF; Upload-Datei
+Onlineformular; Nachweisuploads; Verwaltungsdaten
+Onlineübermittlung über FIONA
+Jährlich; anlassbezogen bei Nachforderungen",,,De‑Minimis‑Beihilfen
+data_collection,DC_015_DUNGEVERORDNUNG_DUV,DC_015_DUNGEVERORDNUNG_DUV,SRC_VERORDNUNG_UBER_DIE_ANWENDUNG_VON_DUNGEMIT,Erfüllung der Anforderungen aus dem Fachrecht,Düngeverordnung - DüV,"Düngeverordnung vom 26. Mai 2017 (BGBl. I S. 1305), die zuletzt durch Artikel 32 der Verordnung vom 11. Dezember 2024 (BGBl. 2024 I Nr. 411) geändert worden ist","Aufzeichnungen zu Düngebedarf, aufgebrachten Nährstoffmengen, Düngemitteln, Flächen und Zeitpunkten der Düngung","Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen (Düngeverordnung - DüV)",https://www.gesetze-im-internet.de/d_v_2017/,Erzeugender Betrieb,Kontrollstelle; zuständige Behörde,Manuelle oder digitale betriebliche Dokumentation,Düngeplanung; betriebliche Bewirtschaftungsdaten; Flächendaten,HTML; PDF; XLSX; CSV,Aufzeichnungen; Berechnungen; Nachweise,Vorlage bei Kontrolle; ggf. digitale oder schriftliche Übermittlung,https://www.duengung-bw.de/landwirtschaft/,Vor Düngung bzw. fortlaufend; jährlich prüfbar,"Düngeverordnung - DüV
+Düngeverordnung - DüV
+Düngeverordnung vom 26. Mai 2017 (BGBl. I S. 1305), die zuletzt durch Artikel 32 der Verordnung vom 11. Dezember 2024 (BGBl. 2024 I Nr. 411) geändert worden ist
+Aufzeichnungen zu Düngebedarf, aufgebrachten Nährstoffmengen, Düngemitteln, Flächen und Zeitpunkten der Düngung
+Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen (Düngeverordnung - DüV)
+Erzeugender Betrieb
+Kontrollstelle; zuständige Behörde
+Manuelle oder digitale betriebliche Dokumentation
+Düngeplanung; betriebliche Bewirtschaftungsdaten; Flächendaten
+HTML; PDF; XLSX; CSV
+Aufzeichnungen; Berechnungen; Nachweise
+Vorlage bei Kontrolle; ggf. digitale oder schriftliche Übermittlung
+Vor Düngung bzw. fortlaufend; jährlich prüfbar",,,Düngeverordnung - DüV
+data_collection,DC_016_PFLANZENSCHUTZGESETZ_PFLSCHG,DC_016_PFLANZENSCHUTZGESETZ_PFLSCHG,SRC_GESETZ_ZUM_SCHUTZ_DER_KULTURPFLANZEN_PFLAN,Erfüllung der Anforderungen aus dem Fachrecht,Pflanzenschutzgesetz - PflSchG,"Pflanzenschutzgesetz vom 6. Februar 2012 (BGBl. I S. 148, 1281), das zuletzt durch Artikel 1 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 350) geändert worden ist","Aufzeichnungen zu angewendeten Pflanzenschutzmitteln, Kultur, Fläche, Zeitpunkt, Menge und Anwenderangaben",Gesetz zum Schutz der Kulturpflanzen (Pflanzenschutzgesetz - PflSchG),https://www.gesetze-im-internet.de/pflschg_2012/,Erzeugender Betrieb,Kontrollstelle; zuständige Behörde,Manuelle oder digitale Dokumentation der Anwendungen,Pflanzenschutzmaßnahmen; Betriebsmittel; Anwendungsdaten,HTML; CSV; XML,Aufzeichnungen; ggf. tabellarische Dokumentation,Vorlage bei Kontrolle; ggf. digitale oder schriftliche Übermittlung,https://www.psmdok.de/,Je Anwendung; fortlaufend,"Pflanzenschutzgesetz - PflSchG
+Pflanzenschutzgesetz - PflSchG
+Pflanzenschutzgesetz vom 6. Februar 2012 (BGBl. I S. 148, 1281), das zuletzt durch Artikel 1 des Gesetzes vom 22. Dezember 2025 (BGBl. 2025 I Nr. 350) geändert worden ist
+Aufzeichnungen zu angewendeten Pflanzenschutzmitteln, Kultur, Fläche, Zeitpunkt, Menge und Anwenderangaben
+Gesetz zum Schutz der Kulturpflanzen (Pflanzenschutzgesetz - PflSchG)
+Erzeugender Betrieb
+Kontrollstelle; zuständige Behörde
+Manuelle oder digitale Dokumentation der Anwendungen
+Pflanzenschutzmaßnahmen; Betriebsmittel; Anwendungsdaten
+HTML; CSV; XML
+Aufzeichnungen; ggf. tabellarische Dokumentation
+Vorlage bei Kontrolle; ggf. digitale oder schriftliche Übermittlung
+Je Anwendung; fortlaufend",,,Pflanzenschutzgesetz - PflSchG
+data_collection,DC_017_PFLANZENSCHUTZ_SACHKUNDEVERORDNUNG_PFLSCHS,DC_017_PFLANZENSCHUTZ_SACHKUNDEVERORDNUNG_PFLSCHS,SRC_VERORDNUNG_UBER_DIE_SACHKUNDE_IM_PFLANZENS,Erfüllung der Anforderungen aus dem Fachrecht,Pflanzenschutz-Sachkundeverordnung - PflSchSachkV 2013,"Pflanzenschutz-Sachkundeverordnung vom 27. Juni 2013 (BGBl. I S. 1953), die zuletzt durch Artikel 376 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist","Nachweis, dass die für Pflanzenschutzmittelanwendungen verantwortliche Person sachkundig ist und Fortbildungen absolviert",Verordnung über die Sachkunde im Pflanzenschutz (Pflanzenschutz-Sachkundeverordnung - PflSchSachkV),https://www.gesetze-im-internet.de/pflschsachkv_2013/,Erzeugender Betrieb,Kontrollstelle; zuständige Behörde,Vorlage vorhandener Nachweise,Sachkundenachweis; Fortbildungsnachweise,HTML; PDF,Nachweis; Bescheinigung,Vorlage bei Kontrolle,https://www.pflanzenschutz-skn.de/,Bei Kontrolle; Fortbildung turnusgemäß,"Pflanzenschutz-Sachkundeverordnung - PflSchSachkV 2013
+Pflanzenschutz-Sachkundeverordnung - PflSchSachkV 2013
+Pflanzenschutz-Sachkundeverordnung vom 27. Juni 2013 (BGBl. I S. 1953), die zuletzt durch Artikel 376 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist
+Nachweis, dass die für Pflanzenschutzmittelanwendungen verantwortliche Person sachkundig ist und Fortbildungen absolviert
+Verordnung über die Sachkunde im Pflanzenschutz (Pflanzenschutz-Sachkundeverordnung - PflSchSachkV)
+Erzeugender Betrieb
+Kontrollstelle; zuständige Behörde
+Vorlage vorhandener Nachweise
+Sachkundenachweis; Fortbildungsnachweise
+HTML; PDF
+Nachweis; Bescheinigung
+Vorlage bei Kontrolle
+Bei Kontrolle; Fortbildung turnusgemäß",,,Pflanzenschutz-Sachkundeverordnung - PflSchSachkV 2013
+data_collection,DC_018_WEINBAUKARTEI,DC_018_WEINBAUKARTEI,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG,Erfüllung der Anforderungen aus dem Fachrecht,Weinbaukartei,Sammel-/Fachverfahren Weinbaukartei,"Sammelverfahren der Weinbauverwaltung fuer weinbaukarteibezogene Meldungen und Nachweise. Umfasst u. a. Antrag auf Bescheinigung der Hangneigung, Bescheinigung zur nutzbaren geografischen Angabe, Erlaeuterungsblatt und Aenderungsmeldung zur Fortfuehrung der gemeinschaftlichen Weinbaukartei.","Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,Erzeugender Betrieb; Genossenschaft,WBI Freiburg bzw. LVWO Weinsberg; zuständige Weinbauverwaltung,"Formularbasierte Meldung oder digitale Einreichung im Weinbau Portal BW (WBK/QWSP), soweit für das konkrete Fachverfahren freigeschaltet",Rebflaechen; Lage-/Hangneigungsdaten; geografische Angaben; Aenderungsdaten,HTML; PDF,Sammelverfahren; Formulare; Meldedaten,"Übermittlung an zuständige Weinbauverwaltung; online über Weinbau Portal BW (WBK/QWSP) soweit verfügbar, sonst über WBI/LVWO-Formularweg",https://wbi.landwirtschaft-bw.de/%2CLde/Startseite/Service/Formulare%2Bund%2BAntraege%2Bder%2BWeinbaukartei%2Bund%2BWeinmarktverwaltung; https://wbi.landwirtschaft-bw.de/site/pbs-bw-rebrush2024/get/documents_E1742378114/MLR.LEL/PB5Documents/wbi/020%20Service/0203%20Referat%2023%20Antr%C3%A4ge%20und%20Formulare%20zur%20Weinbaukartei%20und%20Weinmarktverwaltung/434%20%20Bescheinigung%20der%20Hangneigung/Antrag%20auf%20Bescheinigung%20der%20Hangneigung.pdf; https://weinbau.lgl-bw.de/,Jährlich bzw. anlassbezogen,"Weinbaukartei
+Weinbaukartei
+Sammel-/Fachverfahren Weinbaukartei
+Sammelverfahren der Weinbauverwaltung fuer weinbaukarteibezogene Meldungen und Nachweise. Umfasst u. a. Antrag auf Bescheinigung der Hangneigung, Bescheinigung zur nutzbaren geografischen Angabe, Erlaeuterungsblatt und Aenderungsmeldung zur Fortfuehrung der gemeinschaftlichen Weinbaukartei.
+Sammelverfahren
+Weingesetz
+Wein-Überwachungsverordnung
+Erzeugender Betrieb; Genossenschaft
+WBI Freiburg bzw. LVWO Weinsberg; zuständige Weinbauverwaltung
+Formularbasierte Meldung oder digitale Einreichung im Weinbau Portal BW (WBK/QWSP), soweit für das konkrete Fachverfahren freigeschaltet
+Rebflaechen; Lage-/Hangneigungsdaten; geografische Angaben; Aenderungsdaten
+HTML; PDF
+Sammelverfahren; Formulare; Meldedaten
+Übermittlung an zuständige Weinbauverwaltung; online über Weinbau Portal BW (WBK/QWSP) soweit verfügbar, sonst über WBI/LVWO-Formularweg
+Jährlich bzw. anlassbezogen",Sammelverfahren,,Weinbaukartei
+data_collection,DC_019_WEINBAUKARTEI,DC_019_WEINBAUKARTEI,SRC_WEIN_UBERWACHUNGSVERORDNUNG,,Weinbaukartei - geografische Angabe,Bescheinigung über die nutzbare geografische Angabe zur Antragstellung für die Neuanpflanzung von Weinreben,Bescheinigung zur nutzbaren geografischen Angabe im Zusammenhang mit der Antragstellung für Neuanpflanzung von Weinreben,Wein-Überwachungsverordnung,https://www.gesetze-im-internet.de/wein_v_1995/,Erzeugender Betrieb; Genossenschaft,WBI Freiburg bzw. LVWO Weinsberg; zuständige Weinbauverwaltung,"Formularbasierte Meldung oder digitale Einreichung im Weinbau Portal BW (WBK/QWSP), soweit für das konkrete Fachverfahren freigeschaltet","Rebflächen-, Lage- und Antragsdaten",HTML; PDF,Formular; Meldedaten,"Übermittlung an zuständige Weinbauverwaltung; online über Weinbau Portal BW (WBK/QWSP) soweit verfügbar, sonst über WBI/LVWO-Formularweg",https://wbi.landwirtschaft-bw.de/%2CLde/Startseite/Service/Formulare%2Bund%2BAntraege%2Bder%2BWeinbaukartei%2Bund%2BWeinmarktverwaltung; https://wbi.landwirtschaft-bw.de/site/pbs-bw-rebrush2024/get/documents_E1609605946/MLR.LEL/PB5Documents/wbi/020%20Service/0203%20Referat%2023%20Antr%C3%A4ge%20und%20Formulare%20zur%20Weinbaukartei%20und%20Weinmarktverwaltung/434%20%20Bescheinigung%20der%20Hangneigung/Bescheinigung%20zur%20geografischen%20Angabe.pdf; https://weinbau.lgl-bw.de/,Jährlich bzw. anlassbezogen,"Weinbaukartei - geografische Angabe
+Weinbaukartei - geografische Angabe
+Bescheinigung über die nutzbare geografische Angabe zur Antragstellung für die Neuanpflanzung von Weinreben
+Bescheinigung zur nutzbaren geografischen Angabe im Zusammenhang mit der Antragstellung für Neuanpflanzung von Weinreben
+Unterformular
+Weinbaukartei
+Wein-Überwachungsverordnung
+Erzeugender Betrieb; Genossenschaft
+WBI Freiburg bzw. LVWO Weinsberg; zuständige Weinbauverwaltung
+Formularbasierte Meldung oder digitale Einreichung im Weinbau Portal BW (WBK/QWSP), soweit für das konkrete Fachverfahren freigeschaltet
+Rebflächen-, Lage- und Antragsdaten
+HTML; PDF
+Formular; Meldedaten
+Übermittlung an zuständige Weinbauverwaltung; online über Weinbau Portal BW (WBK/QWSP) soweit verfügbar, sonst über WBI/LVWO-Formularweg
+Jährlich bzw. anlassbezogen",Unterformular,Weinbaukartei,Weinbaukartei - geografische Angabe
+data_collection,DC_020_WEINBAUKARTEI,DC_020_WEINBAUKARTEI,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_02,,Weinbaukartei - Erlaeuterungsblatt Aenderungsmeldung,"Erläuterungsblatt zum Formular: ""Änderungsmeldung zur Fortführung der gemeinschaftlichen Weinbaukartei""",Erläuterungsblatt zur Änderungsmeldung für die gemeinschaftliche Weinbaukartei,"Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,Erzeugender Betrieb; Genossenschaft,WBI Freiburg bzw. LVWO Weinsberg; zuständige Weinbauverwaltung,"Formularbasierte Meldung oder digitale Einreichung im Weinbau Portal BW (WBK/QWSP), soweit für das konkrete Fachverfahren freigeschaltet",Rebflächen- und Änderungsdaten,PDF,Erläuterung zum Formular,"Übermittlung an zuständige Weinbauverwaltung; online über Weinbau Portal BW (WBK/QWSP) soweit verfügbar, sonst über WBI/LVWO-Formularweg",https://wbi.landwirtschaft-bw.de/%2CLde/Startseite/Service/Formulare%2Bund%2BAntraege%2Bder%2BWeinbaukartei%2Bund%2BWeinmarktverwaltung; https://wbi.landwirtschaft-bw.de/site/pbs-bw-rebrush2024/get/documents_E1788862537/MLR.LEL/PB5Documents/wbi/020%20Service/0203%20Referat%2023%20Antr%C3%A4ge%20und%20Formulare%20zur%20Weinbaukartei%20und%20Weinmarktverwaltung/431%20Formulare%20zur%20gemeinschaftlichen%20Weinbaukartei/Erl%C3%A4uterungen%20zum%20%C3%84nderungsformular%20Weinbaukartei%202020.pdf; https://weinbau.lgl-bw.de/,Jährlich bzw. anlassbezogen,"Weinbaukartei - Erlaeuterungsblatt Aenderungsmeldung
+Weinbaukartei - Erlaeuterungsblatt Aenderungsmeldung
+Erläuterungsblatt zum Formular: ""Änderungsmeldung zur Fortführung der gemeinschaftlichen Weinbaukartei""
+Erläuterungsblatt zur Änderungsmeldung für die gemeinschaftliche Weinbaukartei
+Unterformular
+Weinbaukartei
+Weingesetz
+Wein-Überwachungsverordnung
+Erzeugender Betrieb; Genossenschaft
+WBI Freiburg bzw. LVWO Weinsberg; zuständige Weinbauverwaltung
+Formularbasierte Meldung oder digitale Einreichung im Weinbau Portal BW (WBK/QWSP), soweit für das konkrete Fachverfahren freigeschaltet
+Rebflächen- und Änderungsdaten
+PDF
+Erläuterung zum Formular
+Übermittlung an zuständige Weinbauverwaltung; online über Weinbau Portal BW (WBK/QWSP) soweit verfügbar, sonst über WBI/LVWO-Formularweg
+Jährlich bzw. anlassbezogen",Unterformular,Weinbaukartei,Weinbaukartei - Erlaeuterungsblatt Aenderungsmeldung
+data_collection,DC_021_WEINBAUKARTEI,DC_021_WEINBAUKARTEI,SRC_WEIN_UBERWACHUNGSVERORDNUNG_02,,Weinbaukartei - Aenderungsmeldung,Änderungsmeldung zur Fortführung der gemeinschaftlichen Weinbaukartei,Änderungsmeldung zur Fortführung der gemeinschaftlichen Weinbaukartei,Wein-Überwachungsverordnung,https://www.gesetze-im-internet.de/wein_v_1995/,Erzeugender Betrieb; Genossenschaft,WBI Freiburg bzw. LVWO Weinsberg; zuständige Weinbauverwaltung,"Formularbasierte Meldung oder digitale Einreichung im Weinbau Portal BW (WBK/QWSP), soweit für das konkrete Fachverfahren freigeschaltet",Rebflächen- und Änderungsdaten,HTML; PDF,Formular; Meldedaten,"Übermittlung an zuständige Weinbauverwaltung; online über Weinbau Portal BW (WBK/QWSP) soweit verfügbar, sonst über WBI/LVWO-Formularweg",https://wbi.landwirtschaft-bw.de/%2CLde/Startseite/Service/Formulare%2Bund%2BAntraege%2Bder%2BWeinbaukartei%2Bund%2BWeinmarktverwaltung; https://wbi.landwirtschaft-bw.de/site/pbs-bw-rebrush2024/get/documents_E-1834383961/MLR.LEL/PB5Documents/wbi/020%20Service/0203%20Referat%2023%20Antr%C3%A4ge%20und%20Formulare%20zur%20Weinbaukartei%20und%20Weinmarktverwaltung/431%20Formulare%20zur%20gemeinschaftlichen%20Weinbaukartei/%C3%84nderungsformular%20zur%20gemeinschaftlichen%20Weinbaukartei%202020.pdf; https://weinbau.lgl-bw.de/,Jährlich bzw. anlassbezogen,"Weinbaukartei - Aenderungsmeldung
+Weinbaukartei - Aenderungsmeldung
+Änderungsmeldung zur Fortführung der gemeinschaftlichen Weinbaukartei
+Änderungsmeldung zur Fortführung der gemeinschaftlichen Weinbaukartei
+Unterformular
+Weinbaukartei
+Wein-Überwachungsverordnung
+Erzeugender Betrieb; Genossenschaft
+WBI Freiburg bzw. LVWO Weinsberg; zuständige Weinbauverwaltung
+Formularbasierte Meldung oder digitale Einreichung im Weinbau Portal BW (WBK/QWSP), soweit für das konkrete Fachverfahren freigeschaltet
+Rebflächen- und Änderungsdaten
+HTML; PDF
+Formular; Meldedaten
+Übermittlung an zuständige Weinbauverwaltung; online über Weinbau Portal BW (WBK/QWSP) soweit verfügbar, sonst über WBI/LVWO-Formularweg
+Jährlich bzw. anlassbezogen",Unterformular,Weinbaukartei,Weinbaukartei - Aenderungsmeldung
+data_collection,DC_022_WEINMARKTVERWALTUNG,DC_022_WEINMARKTVERWALTUNG,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_03,Erfüllung der Anforderungen aus dem Fachrecht,Weinmarktverwaltung,Sammel-/Fachverfahren Weinmarktverwaltung,"Sammelverfahren der Weinmarktverwaltung fuer weinrechtliche Meldungen und Formulare, u. a. Lieferantenverzeichnis, Weinerzeugungsmeldung, Ernte- und Ertragsmeldung sowie Hektarertragsmeldung.","Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,Erzeugender Betrieb / Genossenschaft,WBI Freiburg bzw. zuständige Weinbauverwaltung,Formularbasierte Meldung,"Erzeugungs-, Lieferanten-, Ernte- und Ertragsdaten",HTML; PDF,Sammelverfahren; Formulare; Meldedaten,Übermittlung an zuständige Weinbauverwaltung,https://wbi.landwirtschaft-bw.de/%2CLde/Startseite/Service/Formulare%2Bund%2BAntraege%2Bder%2BWeinbaukartei%2Bund%2BWeinmarktverwaltung,Jährlich bzw. anlassbezogen,"Weinmarktverwaltung
+Weinmarktverwaltung
+Sammel-/Fachverfahren Weinmarktverwaltung
+Sammelverfahren der Weinmarktverwaltung fuer weinrechtliche Meldungen und Formulare, u. a. Lieferantenverzeichnis, Weinerzeugungsmeldung, Ernte- und Ertragsmeldung sowie Hektarertragsmeldung.
+Sammelverfahren
+Weingesetz
+Wein-Überwachungsverordnung
+Erzeugender Betrieb / Genossenschaft
+WBI Freiburg bzw. zuständige Weinbauverwaltung
+Formularbasierte Meldung
+Erzeugungs-, Lieferanten-, Ernte- und Ertragsdaten
+HTML; PDF
+Sammelverfahren; Formulare; Meldedaten
+Übermittlung an zuständige Weinbauverwaltung
+Jährlich bzw. anlassbezogen",Sammelverfahren,,Weinmarktverwaltung
+data_collection,DC_023_WEINMARKTVERWALTUNG,DC_023_WEINMARKTVERWALTUNG,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_04,,Weinmarktverwaltung - Lieferantenverzeichnis,Lieferantenverzeichnis zur Weinerzeugungsmeldung,Lieferantenverzeichnis zur Weinerzeugungsmeldung fuer externe Erzeugnisse.,"Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,,,,Lieferantendaten; externe Erzeugnisse; Weinerzeugungsmeldung,PDF,Formular; Meldedaten,,https://wbi.landwirtschaft-bw.de/site/pbs-bw-rebrush2024/get/documents_E897572174/MLR.LEL/PB5Documents/wbi/020%20Service/0203%20Referat%2023%20Antr%C3%A4ge%20und%20Formulare%20zur%20Weinbaukartei%20und%20Weinmarktverwaltung/435%20Lieferantenverzeichnis%20zur%20Weinerzeugungsmeldung/Lieferantenverzeichnis%20zur%20Weinerzeugungsmeldung.pdf,,"Weinmarktverwaltung - Lieferantenverzeichnis
+Weinmarktverwaltung - Lieferantenverzeichnis
+Lieferantenverzeichnis zur Weinerzeugungsmeldung
+Lieferantenverzeichnis zur Weinerzeugungsmeldung fuer externe Erzeugnisse.
+Unterformular
+Weinmarktverwaltung
+Weingesetz
+Wein-Überwachungsverordnung
+Lieferantendaten; externe Erzeugnisse; Weinerzeugungsmeldung
+PDF
+Formular; Meldedaten",Unterformular,Weinmarktverwaltung,Weinmarktverwaltung - Lieferantenverzeichnis
+data_collection,DC_024_WEINMARKTVERWALTUNG,DC_024_WEINMARKTVERWALTUNG,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_05,,Weinmarktverwaltung - Weinerzeugungsmeldung,Weinerzeugungsmeldung,"Weinerzeugungsmeldung fuer Erzeugnisse, die nicht in der Ernte- und Erzeugungsmeldung enthalten sind.","Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,,,,Erzeugungsdaten; Weinbauerzeugnisse,PDF,Formular; Meldedaten,,https://wbi.landwirtschaft-bw.de/site/pbs-bw-rebrush2024/get/documents_E-795871443/MLR.LEL/PB5Documents/wbi/020%20Service/0203%20Referat%2023%20Antr%C3%A4ge%20und%20Formulare%20zur%20Weinbaukartei%20und%20Weinmarktverwaltung/432%20Weinerzeugungsmeldung/Weinerzeugungsmeldung.pdf,,"Weinmarktverwaltung - Weinerzeugungsmeldung
+Weinmarktverwaltung - Weinerzeugungsmeldung
+Weinerzeugungsmeldung
+Weinerzeugungsmeldung fuer Erzeugnisse, die nicht in der Ernte- und Erzeugungsmeldung enthalten sind.
+Unterformular
+Weinmarktverwaltung
+Weingesetz
+Wein-Überwachungsverordnung
+Erzeugungsdaten; Weinbauerzeugnisse
+PDF
+Formular; Meldedaten",Unterformular,Weinmarktverwaltung,Weinmarktverwaltung - Weinerzeugungsmeldung
+data_collection,DC_025_WEINMARKTVERWALTUNG,DC_025_WEINMARKTVERWALTUNG,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_06,,Weinmarktverwaltung - Erlaeuterungen Ernte-/Erzeugungsmeldung,Erläuterungen zur Ernteund Erzeugunsmeldung,Erlaeuterungen zur Ernte- und Erzeugungsmeldung mit Rebsortenschluessel.,"Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,,,,Erntedaten; Erzeugungsdaten; Rebsortenschluessel,PDF,Erlaeuterungsdokument,,https://wbi.landwirtschaft-bw.de/site/pbs-bw-rebrush2024/get/documents_E1165612305/MLR.LEL/PB5Documents/wbi/020%20Service/0205%20Referat%2023%20Ernte%20und%20Ertrgsmeldung/EEM-Erl%C3%A4uterungen2019.pdf,,"Weinmarktverwaltung - Erlaeuterungen Ernte-/Erzeugungsmeldung
+Weinmarktverwaltung - Erlaeuterungen Ernte-/Erzeugungsmeldung
+Erläuterungen zur Ernteund Erzeugunsmeldung
+Erlaeuterungen zur Ernte- und Erzeugungsmeldung mit Rebsortenschluessel.
+Unterformular
+Weinmarktverwaltung
+Weingesetz
+Wein-Überwachungsverordnung
+Erntedaten; Erzeugungsdaten; Rebsortenschluessel
+PDF
+Erlaeuterungsdokument",Unterformular,Weinmarktverwaltung,Weinmarktverwaltung - Erlaeuterungen Ernte-/Erzeugungsmeldung
+data_collection,DC_026_WEINMARKTVERWALTUNG,DC_026_WEINMARKTVERWALTUNG,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_07,,Weinmarktverwaltung - Ernte- und Ertragsmeldung,Ernteund Ertragsmeldung,Formular zur Ernte- und Ertragsmeldung an die Weinbaukartei fuer das bestimmte Anbaugebiet Baden.,"Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,,,,Erntedaten; Ertragsdaten; Rebflaechen,PDF,Formular; Meldedaten,,https://wbi.landwirtschaft-bw.de/site/pbs-bw-rebrush2024/get/documents_E30627238/MLR.LEL/PB5Documents/wbi/020%20Service/0205%20Referat%2023%20Ernte%20und%20Ertrgsmeldung/Ernte%20und%20Erzeugungsmeldung%20b.A.%20Baden.pdf,,"Weinmarktverwaltung - Ernte- und Ertragsmeldung
+Weinmarktverwaltung - Ernte- und Ertragsmeldung
+Ernteund Ertragsmeldung
+Formular zur Ernte- und Ertragsmeldung an die Weinbaukartei fuer das bestimmte Anbaugebiet Baden.
+Unterformular
+Weinmarktverwaltung
+Weingesetz
+Wein-Überwachungsverordnung
+Erntedaten; Ertragsdaten; Rebflaechen
+PDF
+Formular; Meldedaten",Unterformular,Weinmarktverwaltung,Weinmarktverwaltung - Ernte- und Ertragsmeldung
+data_collection,DC_027_WEINMARKTVERWALTUNG,DC_027_WEINMARKTVERWALTUNG,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_08,,Weinmarktverwaltung - Hektarertragsmeldung,Hektarertragsmeldung zur Durchführung der Mengenregulierung,Hektarertragsmeldung zur Durchfuehrung der Mengenregulierung.,"Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,,,,Hektarertrag; Ertragsdaten; Mengenregulierung,PDF,Formular; Meldedaten,,https://wbi.landwirtschaft-bw.de/site/pbs-bw-rebrush2024/get/documents_E1743882381/MLR.LEL/PB5Documents/wbi/020%20Service/0205%20Referat%2023%20Ernte%20und%20Ertrgsmeldung/Hektarertragsmeldung2023.pdf,,"Weinmarktverwaltung - Hektarertragsmeldung
+Weinmarktverwaltung - Hektarertragsmeldung
+Hektarertragsmeldung zur Durchführung der Mengenregulierung
+Hektarertragsmeldung zur Durchfuehrung der Mengenregulierung.
+Unterformular
+Weinmarktverwaltung
+Weingesetz
+Wein-Überwachungsverordnung
+Hektarertrag; Ertragsdaten; Mengenregulierung
+PDF
+Formular; Meldedaten",Unterformular,Weinmarktverwaltung,Weinmarktverwaltung - Hektarertragsmeldung
+data_collection,DC_028_WEINUV_1995,DC_028_WEINUV_1995,SRC_WEIN_UBERWACHUNGSVERORDNUNG_03,Erfüllung der Anforderungen aus dem Fachrecht,WeinÜV 1995,"Wein-Überwachungsverordnung in der Fassung der Bekanntmachung vom 14. Mai 2002 (BGBl. I S. 1624), die zuletzt durch Artikel 2 der Verordnung vom 21. Oktober 2022 (BGBl. I S. 1873) geändert worden ist","Dokumentation kellerwirtschaftlicher Vorgänge, Ein- und Ausgänge sowie weinrechtlich relevanter Behandlungen und Bestände",Wein-Überwachungsverordnung,https://www.gesetze-im-internet.de/wein_v_1995/,Genossenschaft,Kontrollstelle; zuständige Weinüberwachung,Laufende betriebliche Buchführung,Kellerwirtschaftliche Vorgänge; Wareneingänge; Warenausgänge; Behandlungsdaten,PDF; XLSX; CSV,Buchführung; Register; Aufzeichnungen,Vorlage bei Kontrolle,,Fortlaufend,"WeinÜV 1995
+WeinÜV 1995
+Wein-Überwachungsverordnung in der Fassung der Bekanntmachung vom 14. Mai 2002 (BGBl. I S. 1624), die zuletzt durch Artikel 2 der Verordnung vom 21. Oktober 2022 (BGBl. I S. 1873) geändert worden ist
+Dokumentation kellerwirtschaftlicher Vorgänge, Ein- und Ausgänge sowie weinrechtlich relevanter Behandlungen und Bestände
+Wein-Überwachungsverordnung
+Genossenschaft
+Kontrollstelle; zuständige Weinüberwachung
+Laufende betriebliche Buchführung
+Kellerwirtschaftliche Vorgänge; Wareneingänge; Warenausgänge; Behandlungsdaten
+PDF; XLSX; CSV
+Buchführung; Register; Aufzeichnungen
+Vorlage bei Kontrolle
+Fortlaufend",,,WeinÜV 1995
+data_collection,DC_029_RUCKVERFOLGBARKEIT,DC_029_RUCKVERFOLGBARKEIT,SRC_VERORDNUNG_EG_NR_178_2002_DES_EUROPAISCHEN,Erfüllung der Anforderungen aus dem Fachrecht,Rückverfolgbarkeit,Rückverfolgbarkeitsdokumentation nach Lebensmittelrecht,"Dokumentation, von wem Erzeugnisse bezogen und an wen sie abgegeben wurden; Grundlage für Rückverfolgbarkeit und Krisenmanagement","Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit",http://data.europa.eu/eli/reg/2002/178/2026-01-01,Genossenschaft; ggf. erzeugender Betrieb,Kontrollstelle; Lebensmittelüberwachung,"Laufende Dokumentation von Lieferanten-, Abnehmer-, Chargen- und Produktdaten",Lieferbelege; Abnehmerdaten; Chargen- bzw. Losdaten,XLSX; CSV; PDF,Lieferanten- und Abnehmerdaten; Chargen-/Losdokumentation,Vorlage bei Kontrolle; ggf. behördliche Auskunft,,Fortlaufend,"Rückverfolgbarkeit
+Rückverfolgbarkeit
+Rückverfolgbarkeitsdokumentation nach Lebensmittelrecht
+Dokumentation, von wem Erzeugnisse bezogen und an wen sie abgegeben wurden; Grundlage für Rückverfolgbarkeit und Krisenmanagement
+Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit
+Genossenschaft; ggf. erzeugender Betrieb
+Kontrollstelle; Lebensmittelüberwachung
+Laufende Dokumentation von Lieferanten-, Abnehmer-, Chargen- und Produktdaten
+Lieferbelege; Abnehmerdaten; Chargen- bzw. Losdaten
+XLSX; CSV; PDF
+Lieferanten- und Abnehmerdaten; Chargen-/Losdokumentation
+Vorlage bei Kontrolle; ggf. behördliche Auskunft
+Fortlaufend",,,Rückverfolgbarkeit
+data_collection,DC_030_WEINRECHTLICHE_QUALITATSUNTERLAGEN,DC_030_WEINRECHTLICHE_QUALITATSUNTERLAGEN,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_09,Erfüllung der Anforderungen aus dem Fachrecht,Weinrechtliche Qualitätsunterlagen,Unterlagen zur amtlichen Qualitätsprüfung und A.P.-Nummer,"Produktbezogene Daten, Analysen und Proben zur amtlichen Qualitätsprüfung und zur Zuteilung der A.P.-Nummer","Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,Genossenschaft,Staatl. Prüfstelle,Antragstellung; Probenübermittlung; Analyse,Produktdaten; Analysedaten; Probe,PDF; XLSX; CSV,Antrag; Analysedaten; Probe; Prüfbericht,Übermittlung an staatliche Prüfstelle,https://wbi.landwirtschaft-bw.de/%2CLde/Startseite/Service/Formulare%2Bund%2BAntraege%2Bder%2BWeinbaukartei%2Bund%2BWeinmarktverwaltung,Je Partie bzw. Antrag,"Weinrechtliche Qualitätsunterlagen
+Weinrechtliche Qualitätsunterlagen
+Unterlagen zur amtlichen Qualitätsprüfung und A.P.-Nummer
+Produktbezogene Daten, Analysen und Proben zur amtlichen Qualitätsprüfung und zur Zuteilung der A.P.-Nummer
+Weingesetz
+Wein-Überwachungsverordnung
+Genossenschaft
+Staatl. Prüfstelle
+Antragstellung; Probenübermittlung; Analyse
+Produktdaten; Analysedaten; Probe
+PDF; XLSX; CSV
+Antrag; Analysedaten; Probe; Prüfbericht
+Übermittlung an staatliche Prüfstelle
+Je Partie bzw. Antrag",,,Weinrechtliche Qualitätsunterlagen
+data_collection,DC_031_MITGLIEDSDATEN,DC_031_MITGLIEDSDATEN,SRC_SATZUNG_MITGLIEDSCHAFTSORDNUNG_LIEFERORDNU,Mitgliedschaft in Genossenschaft und Traubenlieferung,Mitgliedsdaten,Beitritts- und Mitgliedsunterlagen der Genossenschaft,Unterlagen zur Aufnahme und Verwaltung eines Betriebs als Mitglied,"Satzung, Mitgliedschaftsordnung, Lieferordnung bzw. vertragliche Unterlagen der jeweiligen Genossenschaft",keine einheitliche öffentliche URL ermittelt,Erzeugender Betrieb,Genossenschaft,Antrag bzw. Übermittlung von Betriebsdaten,Betriebsangaben des erzeugenden Betriebs,PDF; XLSX; CSV,Formular; Stammdatensatz,Zu erheben,,Bei Eintritt; bei Änderungen,"Mitgliedsdaten
+Mitgliedsdaten
+Beitritts- und Mitgliedsunterlagen der Genossenschaft
+Unterlagen zur Aufnahme und Verwaltung eines Betriebs als Mitglied
+Satzung, Mitgliedschaftsordnung, Lieferordnung bzw. vertragliche Unterlagen der jeweiligen Genossenschaft
+Erzeugender Betrieb
+Genossenschaft
+Antrag bzw. Übermittlung von Betriebsdaten
+Betriebsangaben des erzeugenden Betriebs
+PDF; XLSX; CSV
+Formular; Stammdatensatz
+Zu erheben
+Bei Eintritt; bei Änderungen",,,Mitgliedsdaten
+data_collection,DC_032_TRAUBENLIEFERDATEN,DC_032_TRAUBENLIEFERDATEN,SRC_SATZUNG_MITGLIEDSCHAFTSORDNUNG_LIEFERORDNU_02,Mitgliedschaft in Genossenschaft und Traubenlieferung,Traubenlieferdaten,Traubenlieferdatum,"Daten zu Lieferung, Annahme, Menge, Qualität und ggf. Abrechnung","Satzung, Mitgliedschaftsordnung, Lieferordnung bzw. vertragliche Unterlagen der jeweiligen Genossenschaft",keine einheitliche öffentliche URL ermittelt,Genossenschaft,Erzeugender Betrieb,Erfassung bei Lieferung und Annahme,Traubenlieferung; Wiege- und Qualitätsdaten,CSV; XLSX; PDF,Tabellarische Lieferdaten; Abrechnungsdaten,"Per E-Mail,",,Je Lieferung; saisonal,"Traubenlieferdaten
+Traubenlieferdaten
+Traubenlieferdatum
+Daten zu Lieferung, Annahme, Menge, Qualität und ggf. Abrechnung
+Satzung, Mitgliedschaftsordnung, Lieferordnung bzw. vertragliche Unterlagen der jeweiligen Genossenschaft
+Genossenschaft
+Erzeugender Betrieb
+Erfassung bei Lieferung und Annahme
+Traubenlieferung; Wiege- und Qualitätsdaten
+CSV; XLSX; PDF
+Tabellarische Lieferdaten; Abrechnungsdaten
+Per E-Mail,
+Je Lieferung; saisonal",,,Traubenlieferdaten
+data_collection,DC_033_EZ_TEILNAHME,DC_033_EZ_TEILNAHME,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC,Teilnahme an QZBW-/BioZBW-Einzelzertifizierung (EZ),EZ-Teilnahme,QZBW-/BioZBW-Einzelzertifizierungsunterlagen,Unterlagen zur Teilnahme des Betriebs an der Einzelzertifizierung,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Erzeugender Betrieb,Kontrollstelle,Manuelle Dokumentation; Checklistenbearbeitung,Betriebliche Angaben; Nachweise,HTML; PDF; XLSX,Checkliste; Nachweise; Zertifizierungsunterlagen,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; anlassbezogen,"EZ-Teilnahme
+EZ-Teilnahme
+QZBW-/BioZBW-Einzelzertifizierungsunterlagen
+Unterlagen zur Teilnahme des Betriebs an der Einzelzertifizierung
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Erzeugender Betrieb
+Kontrollstelle
+Manuelle Dokumentation; Checklistenbearbeitung
+Betriebliche Angaben; Nachweise
+HTML; PDF; XLSX
+Checkliste; Nachweise; Zertifizierungsunterlagen
+Zu erheben
+Jährlich; anlassbezogen",,,EZ-Teilnahme
+data_collection,DC_034_EZ_KONTROLLDATEN,DC_034_EZ_KONTROLLDATEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_02,Teilnahme an QZBW-/BioZBW-Einzelzertifizierung (EZ),EZ-Kontrolldaten,Kontroll- und Zertifikatsdaten zur Einzelzertifizierung,Ergebnisse der Kontrolle und Zertifizierung im Rahmen der EZ,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Kontrollstelle,MBW,Kontrolle und Dokumentation durch Kontrollstelle,Kontrollergebnisse,HTML; PDF; XLSX,Kontrollbericht; Zertifikatsdaten,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; nach Kontrolle,"EZ-Kontrolldaten
+EZ-Kontrolldaten
+Kontroll- und Zertifikatsdaten zur Einzelzertifizierung
+Ergebnisse der Kontrolle und Zertifizierung im Rahmen der EZ
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Kontrollstelle
+MBW
+Kontrolle und Dokumentation durch Kontrollstelle
+Kontrollergebnisse
+HTML; PDF; XLSX
+Kontrollbericht; Zertifikatsdaten
+Zu erheben
+Jährlich; nach Kontrolle",,,EZ-Kontrolldaten
+data_collection,DC_035_GZ_TEILNEHMERDATEN,DC_035_GZ_TEILNEHMERDATEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_03,Teilnahme an QZBW-/BioZBW-Gruppenzertifizierung (GZ),GZ-Teilnehmerdaten,Teilnehmerdaten der Gruppenzertifizierung,Daten und Nachweise teilnehmender Betriebe im Rahmen der GZ,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Erzeugender Betrieb,Genossenschaft,Manuelle Übermittlung; Checklistenbearbeitung,Betriebsdaten; Eigenkontrolle; Nachweise,HTML; PDF; XLSX,Checkliste; Teilnehmerliste; Nachweise,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; bei Änderungen,"GZ-Teilnehmerdaten
+GZ-Teilnehmerdaten
+Teilnehmerdaten der Gruppenzertifizierung
+Daten und Nachweise teilnehmender Betriebe im Rahmen der GZ
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Erzeugender Betrieb
+Genossenschaft
+Manuelle Übermittlung; Checklistenbearbeitung
+Betriebsdaten; Eigenkontrolle; Nachweise
+HTML; PDF; XLSX
+Checkliste; Teilnehmerliste; Nachweise
+Zu erheben
+Jährlich; bei Änderungen",,,GZ-Teilnehmerdaten
+data_collection,DC_036_GZ_GRUPPENUNTERLAGEN,DC_036_GZ_GRUPPENUNTERLAGEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_04,Teilnahme an QZBW-/BioZBW-Gruppenzertifizierung (GZ),GZ-Gruppenunterlagen,Gruppen- und IKS-Unterlagen der Gruppenzertifizierung,"Unterlagen zur Gruppe, zu teilnehmenden Betrieben und zum IKS","Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Genossenschaft,Kontrollstelle,Aufbereitung und Übermittlung durch Genossenschaft,Teilnehmerdaten; interne Kontrollnachweise,HTML; PDF; XLSX,Liste; Beschreibung; Kontrollunterlagen,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; vor Kontrolle,"GZ-Gruppenunterlagen
+GZ-Gruppenunterlagen
+Gruppen- und IKS-Unterlagen der Gruppenzertifizierung
+Unterlagen zur Gruppe, zu teilnehmenden Betrieben und zum IKS
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Genossenschaft
+Kontrollstelle
+Aufbereitung und Übermittlung durch Genossenschaft
+Teilnehmerdaten; interne Kontrollnachweise
+HTML; PDF; XLSX
+Liste; Beschreibung; Kontrollunterlagen
+Zu erheben
+Jährlich; vor Kontrolle",,,GZ-Gruppenunterlagen
+data_collection,DC_037_GZ_KONTROLLDATEN,DC_037_GZ_KONTROLLDATEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_05,Teilnahme an QZBW-/BioZBW-Gruppenzertifizierung (GZ),GZ-Kontrolldaten,Kontroll- und Zertifikatsdaten zur Gruppenzertifizierung,Kontroll- und Zertifikatsdaten zur GZ und zum IKS,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Kontrollstelle,MBW,Kontrolle und Dokumentation durch Kontrollstelle,Kontrollergebnisse,HTML; PDF; XLSX,Kontrollbericht; Zertifikatsdaten,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; nach Kontrolle,"GZ-Kontrolldaten
+GZ-Kontrolldaten
+Kontroll- und Zertifikatsdaten zur Gruppenzertifizierung
+Kontroll- und Zertifikatsdaten zur GZ und zum IKS
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Kontrollstelle
+MBW
+Kontrolle und Dokumentation durch Kontrollstelle
+Kontrollergebnisse
+HTML; PDF; XLSX
+Kontrollbericht; Zertifikatsdaten
+Zu erheben
+Jährlich; nach Kontrolle",,,GZ-Kontrolldaten
+data_collection,DC_038_WEITERE_ZERTIFIZIERUNGSNACHWEISE,DC_038_WEITERE_ZERTIFIZIERUNGSNACHWEISE,SRC_IFS_STANDARDS_ECOVIN_BUNDESVERBAND_OKOLOGI,Teilnahme an weiteren Zertifizierungsprogrammen,Weitere Zertifizierungsnachweise,"Programmspezifische Teilnahme-, Audit- und Nachweisdaten",Unterlagen zur Teilnahme an weiteren Zertifizierungsprogrammen,"IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN",https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Erzeugender Betrieb,Kontrollstelle,Programmspezifische Dokumentation,Betriebliche Angaben; Nachweise,HTML; PDF,Nachweise; Auditunterlagen,Zu erheben,https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Programmspezifisch,"Weitere Zertifizierungsnachweise
+Weitere Zertifizierungsnachweise
+Programmspezifische Teilnahme-, Audit- und Nachweisdaten
+Unterlagen zur Teilnahme an weiteren Zertifizierungsprogrammen
+IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN
+Erzeugender Betrieb
+Kontrollstelle
+Programmspezifische Dokumentation
+Betriebliche Angaben; Nachweise
+HTML; PDF
+Nachweise; Auditunterlagen
+Zu erheben
+Programmspezifisch",,,Weitere Zertifizierungsnachweise
+data_collection,DC_039_WEITERE_ZERTIFIKATSDATEN,DC_039_WEITERE_ZERTIFIKATSDATEN,SRC_IFS_STANDARDS_ECOVIN_BUNDESVERBAND_OKOLOGI_02,Teilnahme an weiteren Zertifizierungsprogrammen,Weitere Zertifikatsdaten,"Kontroll-, Audit- und Zertifikatsdaten weiterer Programme",Daten aus Kontrollen und Audits für weitere Zertifizierungsprogramme,"IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN",https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Kontrollstelle,Weitere Zeichenträger,Audit und Dokumentation durch Kontrollstelle,Kontrollergebnisse,HTML; PDF,Auditbericht; Zertifikatsdaten,Zu erheben,https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Programmspezifisch,"Weitere Zertifikatsdaten
+Weitere Zertifikatsdaten
+Kontroll-, Audit- und Zertifikatsdaten weiterer Programme
+Daten aus Kontrollen und Audits für weitere Zertifizierungsprogramme
+IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN
+Kontrollstelle
+Weitere Zeichenträger
+Audit und Dokumentation durch Kontrollstelle
+Kontrollergebnisse
+HTML; PDF
+Auditbericht; Zertifikatsdaten
+Zu erheben
+Programmspezifisch",,,Weitere Zertifikatsdaten
+data_collection,DC_040_VERORDNUNG_EU_2018_848_UBER_OKOLOGISCHE_BI,DC_040_VERORDNUNG_EU_2018_848_UBER_OKOLOGISCHE_BI,SRC_VERORDNUNG_EU_2018_848_DES_EUROPAISCHEN_PA,Teilnahme an weiteren Zertifizierungsprogrammen,Verordnung (EU) 2018/848 über ökologische/biologische Produktion,Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates,"Dokumentation ökologischer Produktion, Betriebsmittel, Warenflüsse, Zertifikate und Kontrollnachweise",Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates,https://eur-lex.europa.eu/eli/reg/2018/848/oj?locale=de,Erzeugender Betrieb; Genossenschaft,Öko-Kontrollstelle; Regierungspräsidium,Betriebliche Dokumentation; Vorlage bei Öko-Kontrolle,Betriebsdaten; Flächen; Betriebsmittel; Warenflüsse; Zertifikate,HTML; PDF; XML,Kontrollunterlagen; Nachweise; Zertifikatsdaten,Vorlage bei Kontrollstelle; Meldungen an Aufsichtsbehörde,https://www.ble.de/DE/Themen/Landwirtschaft/Oekologischer-Landbau/Kontrollstellen/kontrollstellen_node.html,Jährlich; fortlaufend; anlassbezogen,"Verordnung (EU) 2018/848 über ökologische/biologische Produktion
+Verordnung (EU) 2018/848 über ökologische/biologische Produktion
+Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates
+Dokumentation ökologischer Produktion, Betriebsmittel, Warenflüsse, Zertifikate und Kontrollnachweise
+Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates
+Erzeugender Betrieb; Genossenschaft
+Öko-Kontrollstelle; Regierungspräsidium
+Betriebliche Dokumentation; Vorlage bei Öko-Kontrolle
+Betriebsdaten; Flächen; Betriebsmittel; Warenflüsse; Zertifikate
+HTML; PDF; XML
+Kontrollunterlagen; Nachweise; Zertifikatsdaten
+Vorlage bei Kontrollstelle; Meldungen an Aufsichtsbehörde
+Jährlich; fortlaufend; anlassbezogen",,,Verordnung (EU) 2018/848 über ökologische/biologische Produktion
+data_collection,DC_041_AP_ANTRAG,DC_041_AP_ANTRAG,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_10,Beantragung der A.P.-Nummer,AP-Antrag,Antrag auf Zuteilung einer Amtlichen Prüfungsnummer,Antrag und produktbezogene Daten zur amtlichen Qualitätsprüfung,"Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,Genossenschaft,Staatl. Prüfstelle,Antragstellung; Probenübermittlung,Produktdaten; Analysedaten; Probe,PDF,Formular; Probe; Analysedaten,Zu erheben,https://wbi.landwirtschaft-bw.de/%2CLde/Startseite/Service/Formulare%2Bund%2BAntraege%2Bder%2BWeinbaukartei%2Bund%2BWeinmarktverwaltung,Je Partie bzw. Antrag,"AP-Antrag
+AP-Antrag
+Antrag auf Zuteilung einer Amtlichen Prüfungsnummer
+Antrag und produktbezogene Daten zur amtlichen Qualitätsprüfung
+Weingesetz
+Wein-Überwachungsverordnung
+Genossenschaft
+Staatl. Prüfstelle
+Antragstellung; Probenübermittlung
+Produktdaten; Analysedaten; Probe
+PDF
+Formular; Probe; Analysedaten
+Zu erheben
+Je Partie bzw. Antrag",,,AP-Antrag
+data_collection,DC_042_MITGLIEDS_UND_LIEFERDATEN,DC_042_MITGLIEDS_UND_LIEFERDATEN,SRC_SATZUNG_MITGLIEDSCHAFTSORDNUNG_LIEFERORDNU_03,Verwaltung der Mitgliedschaft und Lieferung,Mitglieds- und Lieferdaten,"Mitglieds-, Lieferanten- und Traubenlieferdaten","Daten zur Verwaltung von Mitgliedschaft, Lieferbeziehung und Traubenlieferung","Satzung, Mitgliedschaftsordnung, Lieferordnung bzw. vertragliche Unterlagen der jeweiligen Genossenschaft",keine einheitliche öffentliche URL ermittelt,Erzeugender Betrieb,Genossenschaft,Stammdatenerfassung; Lieferdatenerfassung,Betriebsangaben; Lieferungen,CSV; XLSX; PDF,Stammdatensatz; Lieferdatensatz,Zu erheben,,Fortlaufend; saisonal,"Mitglieds- und Lieferdaten
+Mitglieds- und Lieferdaten
+Mitglieds-, Lieferanten- und Traubenlieferdaten
+Daten zur Verwaltung von Mitgliedschaft, Lieferbeziehung und Traubenlieferung
+Satzung, Mitgliedschaftsordnung, Lieferordnung bzw. vertragliche Unterlagen der jeweiligen Genossenschaft
+Erzeugender Betrieb
+Genossenschaft
+Stammdatenerfassung; Lieferdatenerfassung
+Betriebsangaben; Lieferungen
+CSV; XLSX; PDF
+Stammdatensatz; Lieferdatensatz
+Zu erheben
+Fortlaufend; saisonal",,,Mitglieds- und Lieferdaten
+data_collection,DC_043_EZ_LIZENZUNTERLAGEN,DC_043_EZ_LIZENZUNTERLAGEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_06,Lizenznahme der EZ,EZ-Lizenzunterlagen,Lizenznehmerunterlagen zur Einzelzertifizierung,Unterlagen der Genossenschaft zur Lizenznahme der EZ,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Genossenschaft,MBW,Antragstellung,Lizenznehmerangaben,HTML; PDF; XLSX,Antrag; Unterlagen,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; bei Änderungen,"EZ-Lizenzunterlagen
+EZ-Lizenzunterlagen
+Lizenznehmerunterlagen zur Einzelzertifizierung
+Unterlagen der Genossenschaft zur Lizenznahme der EZ
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Genossenschaft
+MBW
+Antragstellung
+Lizenznehmerangaben
+HTML; PDF; XLSX
+Antrag; Unterlagen
+Zu erheben
+Jährlich; bei Änderungen",,,EZ-Lizenzunterlagen
+data_collection,DC_044_EZ_ZERTIFIKATSDATEN,DC_044_EZ_ZERTIFIKATSDATEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_07,Lizenznahme der EZ,EZ-Zertifikatsdaten,Kontroll- und Zertifikatsdaten zur Einzelzertifizierung,Kontroll- und Zertifikatsdaten als Grundlage der Lizenznahme,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Kontrollstelle,MBW,Kontrolldokumentation,Kontrollergebnisse,HTML; PDF; XLSX,Kontrollbericht; Zertifikatsdaten,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; nach Kontrolle,"EZ-Zertifikatsdaten
+EZ-Zertifikatsdaten
+Kontroll- und Zertifikatsdaten zur Einzelzertifizierung
+Kontroll- und Zertifikatsdaten als Grundlage der Lizenznahme
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Kontrollstelle
+MBW
+Kontrolldokumentation
+Kontrollergebnisse
+HTML; PDF; XLSX
+Kontrollbericht; Zertifikatsdaten
+Zu erheben
+Jährlich; nach Kontrolle",,,EZ-Zertifikatsdaten
+data_collection,DC_045_GZ_LIZENZUNTERLAGEN,DC_045_GZ_LIZENZUNTERLAGEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_08,Lizenznahme der GZ,GZ-Lizenzunterlagen,Lizenznehmerunterlagen zur Gruppenzertifizierung,"Unterlagen zur Lizenznahme der GZ einschließlich Gruppen-, Teilnehmer- und IKS-Angaben","Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Genossenschaft,MBW,Antragstellung; Zusammenstellung von Gruppenunterlagen,Teilnehmerdaten; IKS-Angaben,HTML; PDF; XLSX,Antrag; Liste; Beschreibung,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; bei Änderungen,"GZ-Lizenzunterlagen
+GZ-Lizenzunterlagen
+Lizenznehmerunterlagen zur Gruppenzertifizierung
+Unterlagen zur Lizenznahme der GZ einschließlich Gruppen-, Teilnehmer- und IKS-Angaben
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Genossenschaft
+MBW
+Antragstellung; Zusammenstellung von Gruppenunterlagen
+Teilnehmerdaten; IKS-Angaben
+HTML; PDF; XLSX
+Antrag; Liste; Beschreibung
+Zu erheben
+Jährlich; bei Änderungen",,,GZ-Lizenzunterlagen
+data_collection,DC_046_GZ_ZERTIFIKATSDATEN,DC_046_GZ_ZERTIFIKATSDATEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_09,Lizenznahme der GZ,GZ-Zertifikatsdaten,Kontroll- und Zertifikatsdaten zur Gruppenzertifizierung,Kontroll- und Zertifikatsdaten als Grundlage der Lizenznahme,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Kontrollstelle,MBW,Kontrolldokumentation,Kontrollergebnisse,HTML; PDF; XLSX,Kontrollbericht; Zertifikatsdaten,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; nach Kontrolle,"GZ-Zertifikatsdaten
+GZ-Zertifikatsdaten
+Kontroll- und Zertifikatsdaten zur Gruppenzertifizierung
+Kontroll- und Zertifikatsdaten als Grundlage der Lizenznahme
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Kontrollstelle
+MBW
+Kontrolldokumentation
+Kontrollergebnisse
+HTML; PDF; XLSX
+Kontrollbericht; Zertifikatsdaten
+Zu erheben
+Jährlich; nach Kontrolle",,,GZ-Zertifikatsdaten
+data_collection,DC_047_ZEICHENNUTZUNGSUNTERLAGEN,DC_047_ZEICHENNUTZUNGSUNTERLAGEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_10,QZBW-/BioZBW-Zeichennutzung,Zeichennutzungsunterlagen,QZBW-/BioZBW-Zeichennutzungsunterlagen,Unterlagen zur Nutzung des QZBW-/BioZBW-Zeichens,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Genossenschaft,MBW,Antragstellung; Produktmeldung,Produktdaten; Zeichennutzungsnachweise,HTML; PDF; XLSX,Vertrag; Produktliste; Nachweise,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Bei Antrag; bei Produktänderungen,"Zeichennutzungsunterlagen
+Zeichennutzungsunterlagen
+QZBW-/BioZBW-Zeichennutzungsunterlagen
+Unterlagen zur Nutzung des QZBW-/BioZBW-Zeichens
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Genossenschaft
+MBW
+Antragstellung; Produktmeldung
+Produktdaten; Zeichennutzungsnachweise
+HTML; PDF; XLSX
+Vertrag; Produktliste; Nachweise
+Zu erheben
+Bei Antrag; bei Produktänderungen",,,Zeichennutzungsunterlagen
+data_collection,DC_048_ZEICHENNUTZUNGSKONTROLLE,DC_048_ZEICHENNUTZUNGSKONTROLLE,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_11,QZBW-/BioZBW-Zeichennutzung,Zeichennutzungskontrolle,Eigenkontrolle und Produktunterlagen zur Zeichennutzung,Unterlagen zur Prüfung der korrekten Zeichennutzung,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Genossenschaft,Kontrollstelle,Eigenkontrolle; Produktdokumentation,Produktdaten; Nachweise,HTML; PDF; XLSX,Checkliste; Produktliste; Nachweise,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; anlassbezogen,"Zeichennutzungskontrolle
+Zeichennutzungskontrolle
+Eigenkontrolle und Produktunterlagen zur Zeichennutzung
+Unterlagen zur Prüfung der korrekten Zeichennutzung
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Genossenschaft
+Kontrollstelle
+Eigenkontrolle; Produktdokumentation
+Produktdaten; Nachweise
+HTML; PDF; XLSX
+Checkliste; Produktliste; Nachweise
+Zu erheben
+Jährlich; anlassbezogen",,,Zeichennutzungskontrolle
+data_collection,DC_049_BETRIEBSNACHWEISE_GZ,DC_049_BETRIEBSNACHWEISE_GZ,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_12,Internes Kontrollsystem (IKS) der GZ,Betriebsnachweise GZ,Betriebliche Nachweise für das interne Kontrollsystem,Betriebliche Nachweise und Eigenkontrollen für die Gruppenzertifizierung,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Erzeugender Betrieb,Genossenschaft,Manuelle Dokumentation; Eigenkontrolle,Betriebliche Angaben; Nachweise,HTML; PDF; XLSX,Checkliste; Nachweise,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; anlassbezogen,"Betriebsnachweise GZ
+Betriebsnachweise GZ
+Betriebliche Nachweise für das interne Kontrollsystem
+Betriebliche Nachweise und Eigenkontrollen für die Gruppenzertifizierung
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Erzeugender Betrieb
+Genossenschaft
+Manuelle Dokumentation; Eigenkontrolle
+Betriebliche Angaben; Nachweise
+HTML; PDF; XLSX
+Checkliste; Nachweise
+Zu erheben
+Jährlich; anlassbezogen",,,Betriebsnachweise GZ
+data_collection,DC_050_IKS_DOKUMENTATION,DC_050_IKS_DOKUMENTATION,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_13,Internes Kontrollsystem (IKS) der GZ,IKS-Dokumentation,Internes Kontrollsystem der Gruppenzertifizierung,"Dokumentation des IKS einschließlich Kontrollen, Abweichungen und Maßnahmen","Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Genossenschaft,Kontrollstelle,Interne Kontrolle und Dokumentation,Teilnehmerdaten; interne Kontrollergebnisse,HTML; PDF; XLSX,Kontrollbericht; Liste; Maßnahmenplan,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; anlassbezogen,"IKS-Dokumentation
+IKS-Dokumentation
+Internes Kontrollsystem der Gruppenzertifizierung
+Dokumentation des IKS einschließlich Kontrollen, Abweichungen und Maßnahmen
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Genossenschaft
+Kontrollstelle
+Interne Kontrolle und Dokumentation
+Teilnehmerdaten; interne Kontrollergebnisse
+HTML; PDF; XLSX
+Kontrollbericht; Liste; Maßnahmenplan
+Zu erheben
+Jährlich; anlassbezogen",,,IKS-Dokumentation
+data_collection,DC_051_BETRIEBS_UND_PRODUKTDATEN_ZEICHENNUTZUNG,DC_051_BETRIEBS_UND_PRODUKTDATEN_ZEICHENNUTZUNG,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_14,Lizenznahme der Zeichennutzung,Betriebs- und Produktdaten Zeichennutzung,Betriebs- und Produktdaten zur Zeichennutzung,"Daten und Nachweise, die eine weitere Erzeugerorganisation bündelt","Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Erzeugender Betrieb,Weitere Erzeugerorganisation,Übermittlung von Betriebs- und Produktdaten,Betriebsdaten; Produktdaten; Nachweise,HTML; PDF; XLSX,Zu erheben,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Bei Antrag; bei Änderungen,"Betriebs- und Produktdaten Zeichennutzung
+Betriebs- und Produktdaten Zeichennutzung
+Betriebs- und Produktdaten zur Zeichennutzung
+Daten und Nachweise, die eine weitere Erzeugerorganisation bündelt
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Erzeugender Betrieb
+Weitere Erzeugerorganisation
+Übermittlung von Betriebs- und Produktdaten
+Betriebsdaten; Produktdaten; Nachweise
+HTML; PDF; XLSX
+Zu erheben
+Zu erheben
+Bei Antrag; bei Änderungen",,,Betriebs- und Produktdaten Zeichennutzung
+data_collection,DC_052_GEBUNDELTE_ZEICHENNUTZUNGSUNTERLAGEN,DC_052_GEBUNDELTE_ZEICHENNUTZUNGSUNTERLAGEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_15,Lizenznahme der Zeichennutzung,Gebündelte Zeichennutzungsunterlagen,Lizenz- und Zeichennutzungsunterlagen gebündelter Betriebe,Gebündelte Unterlagen zur Lizenznahme der Zeichennutzung,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Weitere Erzeugerorganisation,MBW bzw. Zeichenträger,Antragstellung; Bündelung von Betriebsdaten,Betriebs- und Produktdaten der teilnehmenden Betriebe,HTML; PDF; XLSX,Antrag; Vertrag; Liste; Nachweise,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Bei Antrag; bei Änderungen,"Gebündelte Zeichennutzungsunterlagen
+Gebündelte Zeichennutzungsunterlagen
+Lizenz- und Zeichennutzungsunterlagen gebündelter Betriebe
+Gebündelte Unterlagen zur Lizenznahme der Zeichennutzung
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Weitere Erzeugerorganisation
+MBW bzw. Zeichenträger
+Antragstellung; Bündelung von Betriebsdaten
+Betriebs- und Produktdaten der teilnehmenden Betriebe
+HTML; PDF; XLSX
+Antrag; Vertrag; Liste; Nachweise
+Zu erheben
+Bei Antrag; bei Änderungen",,,Gebündelte Zeichennutzungsunterlagen
+data_collection,DC_053_AP_PRUFUNTERLAGEN,DC_053_AP_PRUFUNTERLAGEN,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_11,Amtliche Qualitätsprüfung,AP-Prüfunterlagen,Unterlagen zur amtlichen Qualitätsprüfung,"Antrag, Probe und produktbezogene Daten zur amtlichen Qualitätsprüfung","Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,Genossenschaft,Staatl. Prüfstelle,Antragstellung; Probenübermittlung,Produktdaten; Analysedaten; Probe,PDF,Formular; Probe; Analysedaten,Zu erheben,https://wbi.landwirtschaft-bw.de/%2CLde/Startseite/Service/Formulare%2Bund%2BAntraege%2Bder%2BWeinbaukartei%2Bund%2BWeinmarktverwaltung,Je Partie bzw. Antrag,"AP-Prüfunterlagen
+AP-Prüfunterlagen
+Unterlagen zur amtlichen Qualitätsprüfung
+Antrag, Probe und produktbezogene Daten zur amtlichen Qualitätsprüfung
+Weingesetz
+Wein-Überwachungsverordnung
+Genossenschaft
+Staatl. Prüfstelle
+Antragstellung; Probenübermittlung
+Produktdaten; Analysedaten; Probe
+PDF
+Formular; Probe; Analysedaten
+Zu erheben
+Je Partie bzw. Antrag",,,AP-Prüfunterlagen
+data_collection,DC_054_AP_PRUFERGEBNIS,DC_054_AP_PRUFERGEBNIS,SRC_WEINGESETZ_WEIN_UBERWACHUNGSVERORDNUNG_12,Amtliche Qualitätsprüfung,AP-Prüfergebnis,Prüfergebnis der amtlichen Qualitätsprüfung,Prüfergebnis bzw. Entscheidung zur Amtlichen Prüfungsnummer,"Weingesetz
+Wein-Überwachungsverordnung",https://www.gesetze-im-internet.de/weing_1994/; https://www.gesetze-im-internet.de/wein_v_1995/,Staatl. Prüfstelle,Genossenschaft,Prüfung und Ergebnisdokumentation,Prüfergebnis,PDF,Prüfbericht; Bescheid,Zu erheben,,Je Antrag,"AP-Prüfergebnis
+AP-Prüfergebnis
+Prüfergebnis der amtlichen Qualitätsprüfung
+Prüfergebnis bzw. Entscheidung zur Amtlichen Prüfungsnummer
+Weingesetz
+Wein-Überwachungsverordnung
+Staatl. Prüfstelle
+Genossenschaft
+Prüfung und Ergebnisdokumentation
+Prüfergebnis
+PDF
+Prüfbericht; Bescheid
+Zu erheben
+Je Antrag",,,AP-Prüfergebnis
+data_collection,DC_055_EZ_KONTROLLUNTERLAGEN,DC_055_EZ_KONTROLLUNTERLAGEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_16,Kontrolle der EZ-Teilnahme,EZ-Kontrollunterlagen,Kontrollunterlagen der Einzelzertifizierung,"Unterlagen, die der Kontrollstelle für die EZ-Kontrolle vorgelegt werden","Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Erzeugender Betrieb,Kontrollstelle,Eigenkontrolle; Vorlage von Nachweisen,Betriebliche Angaben; Nachweise,HTML; PDF; XLSX,Checkliste; Nachweise,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; anlassbezogen,"EZ-Kontrollunterlagen
+EZ-Kontrollunterlagen
+Kontrollunterlagen der Einzelzertifizierung
+Unterlagen, die der Kontrollstelle für die EZ-Kontrolle vorgelegt werden
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Erzeugender Betrieb
+Kontrollstelle
+Eigenkontrolle; Vorlage von Nachweisen
+Betriebliche Angaben; Nachweise
+HTML; PDF; XLSX
+Checkliste; Nachweise
+Zu erheben
+Jährlich; anlassbezogen",,,EZ-Kontrollunterlagen
+data_collection,DC_056_EZ_KONTROLLBERICHT,DC_056_EZ_KONTROLLBERICHT,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_17,Kontrolle der EZ-Teilnahme,EZ-Kontrollbericht,Kontrollbericht der Einzelzertifizierung,"Kontrollergebnisse, Abweichungen, Maßnahmen und Zertifikatsdaten zur EZ","Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Kontrollstelle,MBW,Kontrolle und Berichtserstellung,Kontrollergebnisse,HTML; PDF; XLSX,Kontrollbericht; Zertifikatsdaten,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; nach Kontrolle,"EZ-Kontrollbericht
+EZ-Kontrollbericht
+Kontrollbericht der Einzelzertifizierung
+Kontrollergebnisse, Abweichungen, Maßnahmen und Zertifikatsdaten zur EZ
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Kontrollstelle
+MBW
+Kontrolle und Berichtserstellung
+Kontrollergebnisse
+HTML; PDF; XLSX
+Kontrollbericht; Zertifikatsdaten
+Zu erheben
+Jährlich; nach Kontrolle",,,EZ-Kontrollbericht
+data_collection,DC_057_IKS_KONTROLLUNTERLAGEN,DC_057_IKS_KONTROLLUNTERLAGEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_18,Kontrolle des IKS in GZ,IKS-Kontrollunterlagen,Kontrollunterlagen zum internen Kontrollsystem,Unterlagen zur Prüfung des IKS der Gruppenzertifizierung,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Genossenschaft,Kontrollstelle,Interne Dokumentation; Vorlage bei Kontrolle,Interne Kontrollergebnisse; Teilnehmerdaten,HTML; PDF; XLSX,Liste; Nachweise; Kontrollunterlagen,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; anlassbezogen,"IKS-Kontrollunterlagen
+IKS-Kontrollunterlagen
+Kontrollunterlagen zum internen Kontrollsystem
+Unterlagen zur Prüfung des IKS der Gruppenzertifizierung
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Genossenschaft
+Kontrollstelle
+Interne Dokumentation; Vorlage bei Kontrolle
+Interne Kontrollergebnisse; Teilnehmerdaten
+HTML; PDF; XLSX
+Liste; Nachweise; Kontrollunterlagen
+Zu erheben
+Jährlich; anlassbezogen",,,IKS-Kontrollunterlagen
+data_collection,DC_058_IKS_KONTROLLBERICHT,DC_058_IKS_KONTROLLBERICHT,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_19,Kontrolle des IKS in GZ,IKS-Kontrollbericht,Kontrollbericht zum internen Kontrollsystem,Kontrollbericht zur Prüfung des internen Kontrollsystems,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Kontrollstelle,MBW,Kontrolle und Berichtserstellung,Kontrollergebnisse,HTML; PDF; XLSX,Kontrollbericht; Zertifikatsdaten,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; nach Kontrolle,"IKS-Kontrollbericht
+IKS-Kontrollbericht
+Kontrollbericht zum internen Kontrollsystem
+Kontrollbericht zur Prüfung des internen Kontrollsystems
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Kontrollstelle
+MBW
+Kontrolle und Berichtserstellung
+Kontrollergebnisse
+HTML; PDF; XLSX
+Kontrollbericht; Zertifikatsdaten
+Zu erheben
+Jährlich; nach Kontrolle",,,IKS-Kontrollbericht
+data_collection,DC_059_ZEICHENNUTZUNGSNACHWEISE,DC_059_ZEICHENNUTZUNGSNACHWEISE,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_20,Kontrolle der Zeichennutzung,Zeichennutzungsnachweise,Nachweise zur Kontrolle der Zeichennutzung,Produkt- und Nachweisdaten zur Prüfung der Zeichennutzung,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Genossenschaft bzw. weitere Erzeugerorganisation,Kontrollstelle,Eigenkontrolle; Produktdokumentation,Produktdaten; Zeichennutzungsnachweise,HTML; PDF; XLSX,Produktliste; Checkliste; Nachweise,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; anlassbezogen,"Zeichennutzungsnachweise
+Zeichennutzungsnachweise
+Nachweise zur Kontrolle der Zeichennutzung
+Produkt- und Nachweisdaten zur Prüfung der Zeichennutzung
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Genossenschaft bzw. weitere Erzeugerorganisation
+Kontrollstelle
+Eigenkontrolle; Produktdokumentation
+Produktdaten; Zeichennutzungsnachweise
+HTML; PDF; XLSX
+Produktliste; Checkliste; Nachweise
+Zu erheben
+Jährlich; anlassbezogen",,,Zeichennutzungsnachweise
+data_collection,DC_060_ZEICHENNUTZUNGS_KONTROLLBERICHT,DC_060_ZEICHENNUTZUNGS_KONTROLLBERICHT,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_21,Kontrolle der Zeichennutzung,Zeichennutzungs-Kontrollbericht,Kontrollbericht zur Zeichennutzung,Kontrollergebnisse zur Nutzung des QZBW-/BioZBW-Zeichens,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Kontrollstelle,MBW,Kontrolle und Berichtserstellung,Kontrollergebnisse,HTML; PDF; XLSX,Kontrollbericht,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; nach Kontrolle,"Zeichennutzungs-Kontrollbericht
+Zeichennutzungs-Kontrollbericht
+Kontrollbericht zur Zeichennutzung
+Kontrollergebnisse zur Nutzung des QZBW-/BioZBW-Zeichens
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Kontrollstelle
+MBW
+Kontrolle und Berichtserstellung
+Kontrollergebnisse
+HTML; PDF; XLSX
+Kontrollbericht
+Zu erheben
+Jährlich; nach Kontrolle",,,Zeichennutzungs-Kontrollbericht
+data_collection,DC_061_AUDITNACHWEISE_WEITERE_ZERTIFIZIERUNGEN,DC_061_AUDITNACHWEISE_WEITERE_ZERTIFIZIERUNGEN,SRC_IFS_STANDARDS_ECOVIN_BUNDESVERBAND_OKOLOGI_03,Kontrolle weiterer Zertifizierungen,Auditnachweise weitere Zertifizierungen,Programmspezifische Audit- und Nachweisdaten,Nachweise zur Kontrolle weiterer Zertifizierungsprogramme,"IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN",https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Erzeugender Betrieb bzw. Genossenschaft,Kontrollstelle,Dokumentation und Vorlage bei Audit,Betriebliche Angaben; Programmnachweise,HTML; PDF,Auditunterlagen; Nachweise,Zu erheben,https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Programmspezifisch,"Auditnachweise weitere Zertifizierungen
+Auditnachweise weitere Zertifizierungen
+Programmspezifische Audit- und Nachweisdaten
+Nachweise zur Kontrolle weiterer Zertifizierungsprogramme
+IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN
+Erzeugender Betrieb bzw. Genossenschaft
+Kontrollstelle
+Dokumentation und Vorlage bei Audit
+Betriebliche Angaben; Programmnachweise
+HTML; PDF
+Auditunterlagen; Nachweise
+Zu erheben
+Programmspezifisch",,,Auditnachweise weitere Zertifizierungen
+data_collection,DC_062_AUDITBERICHT_WEITERE_ZERTIFIZIERUNGEN,DC_062_AUDITBERICHT_WEITERE_ZERTIFIZIERUNGEN,SRC_IFS_STANDARDS_ECOVIN_BUNDESVERBAND_OKOLOGI_04,Kontrolle weiterer Zertifizierungen,Auditbericht weitere Zertifizierungen,Audit- und Zertifikatsdaten weiterer Zertifizierungen,"Kontroll- bzw. Auditbericht einschließlich Abweichungen, Maßnahmen und Zertifikatsdaten","IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN",https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Kontrollstelle,Weitere Zertifizierungsprogramme bzw. Zeichenträger,Audit und Berichtserstellung,Kontrollergebnisse,HTML; PDF,Auditbericht; Zertifikatsdaten,Zu erheben,https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Programmspezifisch,"Auditbericht weitere Zertifizierungen
+Auditbericht weitere Zertifizierungen
+Audit- und Zertifikatsdaten weiterer Zertifizierungen
+Kontroll- bzw. Auditbericht einschließlich Abweichungen, Maßnahmen und Zertifikatsdaten
+IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN
+Kontrollstelle
+Weitere Zertifizierungsprogramme bzw. Zeichenträger
+Audit und Berichtserstellung
+Kontrollergebnisse
+HTML; PDF
+Auditbericht; Zertifikatsdaten
+Zu erheben
+Programmspezifisch",,,Auditbericht weitere Zertifizierungen
+data_collection,DC_063_GA_RUCKMELDUNGEN,DC_063_GA_RUCKMELDUNGEN,SRC_VERORDNUNG_ZUR_DURCHFUHRUNG_DES_INTEGRIERT,Verwaltung des Gemeinsamen Antrags,GA-Rückmeldungen,Rückmeldungen und Bescheide zum Gemeinsamen Antrag,"Rückmeldungen, Prüfergebnisse, Nachforderungen und Bescheide",Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung - GAPInVeKoSV),https://www.gesetze-im-internet.de/gapinvekosv/BJNR635300022.html,MLR Referat 25,Erzeugender Betrieb,Prüfung und Verwaltungsrückmeldung,Antragsdaten; Prüfergebnisse,HTML; PDF,Bescheid; Rückmeldung; Nachforderung,Zu erheben,https://fiona.landbw.de/,Jährlich; anlassbezogen,"GA-Rückmeldungen
+GA-Rückmeldungen
+Rückmeldungen und Bescheide zum Gemeinsamen Antrag
+Rückmeldungen, Prüfergebnisse, Nachforderungen und Bescheide
+Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems (GAPInVeKoS-Verordnung - GAPInVeKoSV)
+MLR Referat 25
+Erzeugender Betrieb
+Prüfung und Verwaltungsrückmeldung
+Antragsdaten; Prüfergebnisse
+HTML; PDF
+Bescheid; Rückmeldung; Nachforderung
+Zu erheben
+Jährlich; anlassbezogen",,,GA-Rückmeldungen
+data_collection,DC_064_SYSTEMMANAGEMENTDATEN_GENOSSENSCHAFT,DC_064_SYSTEMMANAGEMENTDATEN_GENOSSENSCHAFT,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_22,Systemübergreifendes Management von QZBW/BioZBW,Systemmanagementdaten Genossenschaft,"Lizenznehmer-, Zeichennutzungs- und Produktdaten",Daten der Genossenschaft für das systemübergreifende Management,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Genossenschaft,MBW,Meldung; Antrag; Aktualisierung,Lizenznehmerdaten; Produktdaten,HTML; PDF; XLSX; CSV,Zu erheben,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; bei Änderungen,"Systemmanagementdaten Genossenschaft
+Systemmanagementdaten Genossenschaft
+Lizenznehmer-, Zeichennutzungs- und Produktdaten
+Daten der Genossenschaft für das systemübergreifende Management
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Genossenschaft
+MBW
+Meldung; Antrag; Aktualisierung
+Lizenznehmerdaten; Produktdaten
+HTML; PDF; XLSX; CSV
+Zu erheben
+Zu erheben
+Jährlich; bei Änderungen",,,Systemmanagementdaten Genossenschaft
+data_collection,DC_065_SYSTEMMANAGEMENTDATEN_KONTROLLSTELLE,DC_065_SYSTEMMANAGEMENTDATEN_KONTROLLSTELLE,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_23,Systemübergreifendes Management von QZBW/BioZBW,Systemmanagementdaten Kontrollstelle,Kontroll- und Zertifikatsdaten für das Systemmanagement,Kontroll- und Zertifikatsdaten für das systemübergreifende Management,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),Kontrollstelle,MBW,Meldung von Kontroll- und Zertifikatsdaten,Kontrollergebnisse; Zertifikatsdaten,HTML; PDF; XLSX; CSV,Kontrollbericht; Zertifikatsdaten,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Jährlich; nach Kontrolle,"Systemmanagementdaten Kontrollstelle
+Systemmanagementdaten Kontrollstelle
+Kontroll- und Zertifikatsdaten für das Systemmanagement
+Kontroll- und Zertifikatsdaten für das systemübergreifende Management
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+Kontrollstelle
+MBW
+Meldung von Kontroll- und Zertifikatsdaten
+Kontrollergebnisse; Zertifikatsdaten
+HTML; PDF; XLSX; CSV
+Kontrollbericht; Zertifikatsdaten
+Zu erheben
+Jährlich; nach Kontrolle",,,Systemmanagementdaten Kontrollstelle
+data_collection,DC_066_AGGREGIERTE_PROGRAMMDATEN,DC_066_AGGREGIERTE_PROGRAMMDATEN,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_24,Systemübergreifendes Management von QZBW/BioZBW,Aggregierte Programmdaten,"Aggregierte Programm-, Teilnahme-, Kontroll- und Zertifizierungsdaten",Aggregierte Daten zum Stand und zur Entwicklung von QZBW/BioZBW,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),MBW,MLR Referat 63,Aggregation und Berichterstattung,"Programm-, Teilnahme-, Kontroll- und Zertifizierungsdaten",HTML; PDF; XLSX; CSV,Aggregierte Übersicht; Bericht,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Zu erheben,"Aggregierte Programmdaten
+Aggregierte Programmdaten
+Aggregierte Programm-, Teilnahme-, Kontroll- und Zertifizierungsdaten
+Aggregierte Daten zum Stand und zur Entwicklung von QZBW/BioZBW
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+MBW
+MLR Referat 63
+Aggregation und Berichterstattung
+Programm-, Teilnahme-, Kontroll- und Zertifizierungsdaten
+HTML; PDF; XLSX; CSV
+Aggregierte Übersicht; Bericht
+Zu erheben
+Zu erheben",,,Aggregierte Programmdaten
+data_collection,DC_067_STRATEGIEDATEN_QZBW_BIOZBW,DC_067_STRATEGIEDATEN_QZBW_BIOZBW,SRC_QUALITATSZEICHEN_BADEN_WURTTEMBERG_BIOZEIC_25,Festlegung der strategischen Ausrichtung von QZBW/BioZBW,Strategiedaten QZBW/BioZBW,Aggregierte Programmdaten und Änderungsbedarfe,Informationen zur strategischen Weiterentwicklung von QZBW/BioZBW,"Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel",https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/; https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52010XC1216(02),MBW,MLR Referat 63,Aggregation; fachliche Aufbereitung,Programmdaten; Änderungsbedarfe,HTML; PDF; XLSX; CSV,Bericht; Programmunterlagen,Zu erheben,https://www.gemeinschaftsmarketing-bw.de/; https://www.bio-aus-bw.de/,Zu erheben,"Strategiedaten QZBW/BioZBW
+Strategiedaten QZBW/BioZBW
+Aggregierte Programmdaten und Änderungsbedarfe
+Informationen zur strategischen Weiterentwicklung von QZBW/BioZBW
+Qualitätszeichen Baden-Württemberg
+Biozeichen Baden-Württemberg
+Mitteilung der Kommission - EU-Leitlinien für eine gute Praxis bei freiwilligen Zertifizierungssystemen für landwirtschaftliche Erzeugnisse und Lebensmittel
+MBW
+MLR Referat 63
+Aggregation; fachliche Aufbereitung
+Programmdaten; Änderungsbedarfe
+HTML; PDF; XLSX; CSV
+Bericht; Programmunterlagen
+Zu erheben
+Zu erheben",,,Strategiedaten QZBW/BioZBW
+data_collection,DC_068_PROGRAMMKONTROLLDATEN,DC_068_PROGRAMMKONTROLLDATEN,SRC_IFS_STANDARDS_ECOVIN_BUNDESVERBAND_OKOLOGI_05,Festlegung der strategischen Ausrichtung von QZBW/BioZBW,Programmkontrolldaten,"Programmspezifische Audit-, Kontroll- und Zertifikatsdaten",Daten aus Audits und Kontrollen für weitere Zertifizierungsprogramme,"IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN",https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Kontrollstelle,"IFS, Ecovin, KLIMAWIN BW",Audit und Berichtserstellung,Kontrollergebnisse,HTML; PDF,Auditbericht; Zertifikatsdaten,Zu erheben,https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Programmspezifisch,"Programmkontrolldaten
+Programmkontrolldaten
+Programmspezifische Audit-, Kontroll- und Zertifikatsdaten
+Daten aus Audits und Kontrollen für weitere Zertifizierungsprogramme
+IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN
+Kontrollstelle
+IFS, Ecovin, KLIMAWIN BW
+Audit und Berichtserstellung
+Kontrollergebnisse
+HTML; PDF
+Auditbericht; Zertifikatsdaten
+Zu erheben
+Programmspezifisch",,,Programmkontrolldaten
+data_collection,DC_069_PROGRAMMTEILNAHMEDATEN,DC_069_PROGRAMMTEILNAHMEDATEN,SRC_IFS_STANDARDS_ECOVIN_BUNDESVERBAND_OKOLOGI_06,Festlegung der strategischen Ausrichtung von QZBW/BioZBW,Programmteilnahmedaten,Teilnahmeunterlagen und programmspezifische Nachweise,Daten und Nachweise zur Teilnahme an weiteren Programmen,"IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN",https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Teilnehmende Betriebe bzw. Genossenschaft,"IFS, Ecovin, KLIMAWIN BW",Programmspezifische Dokumentation,Betriebliche Angaben; Nachweise; Berichtsdaten,HTML; PDF,Teilnahmeunterlagen; Nachweise; ggf. Bericht,Zu erheben,https://www.ifs-certification.com/; https://www.ecovin.de/; https://www.klimawin-bw.de/,Programmspezifisch,"Programmteilnahmedaten
+Programmteilnahmedaten
+Teilnahmeunterlagen und programmspezifische Nachweise
+Daten und Nachweise zur Teilnahme an weiteren Programmen
+IFS Standards
+ECOVIN Bundesverband Ökologischer Weinbau e.V.
+KLIMAWIN
+Teilnehmende Betriebe bzw. Genossenschaft
+IFS, Ecovin, KLIMAWIN BW
+Programmspezifische Dokumentation
+Betriebliche Angaben; Nachweise; Berichtsdaten
+HTML; PDF
+Teilnahmeunterlagen; Nachweise; ggf. Bericht
+Zu erheben
+Programmspezifisch",,,Programmteilnahmedaten
+data_collection,DC_070_OKO_KONTROLLDATEN,DC_070_OKO_KONTROLLDATEN,SRC_VERORDNUNG_EU_2018_848_DES_EUROPAISCHEN_PA_02,Aufsicht über EU-Öko-Zertifizierung,Öko-Kontrolldaten,Meldungen und Kontrolldaten der Öko-Kontrollstellen,Daten zur behördlichen Aufsicht über die EU-Öko-Zertifizierung,Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates,https://eur-lex.europa.eu/eli/reg/2018/848/oj?locale=de,Kontrollstelle,Regierungspräsidium,Meldung durch Kontrollstelle,Kontrolldaten; Unternehmerdaten; Zertifikatsdaten,HTML; PDF; XML,Meldung; Kontroll- und Zertifikatsdaten,Zu erheben,https://www.ble.de/DE/Themen/Landwirtschaft/Oekologischer-Landbau/Kontrollstellen/kontrollstellen_node.html,Zu erheben,"Öko-Kontrolldaten
+Öko-Kontrolldaten
+Meldungen und Kontrolldaten der Öko-Kontrollstellen
+Daten zur behördlichen Aufsicht über die EU-Öko-Zertifizierung
+Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates
+Kontrollstelle
+Regierungspräsidium
+Meldung durch Kontrollstelle
+Kontrolldaten; Unternehmerdaten; Zertifikatsdaten
+HTML; PDF; XML
+Meldung; Kontroll- und Zertifikatsdaten
+Zu erheben
+Zu erheben",,,Öko-Kontrolldaten
+data_collection,DC_071_OKO_KONTROLLUNTERLAGEN,DC_071_OKO_KONTROLLUNTERLAGEN,SRC_VERORDNUNG_EU_2018_848_DES_EUROPAISCHEN_PA_03,Aufsicht über EU-Öko-Zertifizierung,Öko-Kontrollunterlagen,Kontrollunterlagen zur EU-Öko-Zertifizierung,Unterlagen und Nachweise zur Kontrolle der EU-Öko-Zertifizierung,Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates,https://eur-lex.europa.eu/eli/reg/2018/848/oj?locale=de,Teilnehmende Betriebe bzw. Genossenschaft,Kontrollstelle,Dokumentation und Vorlage bei Öko-Kontrolle,Betriebsdaten; Produktdaten; Öko-Nachweise,HTML; PDF; XML,Kontrollunterlagen; Nachweise,Zu erheben,https://www.ble.de/DE/Themen/Landwirtschaft/Oekologischer-Landbau/Kontrollstellen/kontrollstellen_node.html,Jährlich; anlassbezogen,"Öko-Kontrollunterlagen
+Öko-Kontrollunterlagen
+Kontrollunterlagen zur EU-Öko-Zertifizierung
+Unterlagen und Nachweise zur Kontrolle der EU-Öko-Zertifizierung
+Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates
+Teilnehmende Betriebe bzw. Genossenschaft
+Kontrollstelle
+Dokumentation und Vorlage bei Öko-Kontrolle
+Betriebsdaten; Produktdaten; Öko-Nachweise
+HTML; PDF; XML
+Kontrollunterlagen; Nachweise
+Zu erheben
+Jährlich; anlassbezogen",,,Öko-Kontrollunterlagen
