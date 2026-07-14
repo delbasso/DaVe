@@ -25,6 +25,21 @@ Ziel ist eine nutzerfreundliche Suche, bei der Fragen wie diese gestellt werden 
 
 Die App sucht dann in einem Weaviate-basierten Katalog und zeigt passende atomare Anforderungen mit Quelle, Fundstelle und weiteren Detailinformationen an.
 
+## Laufender Demonstrator und technische Ablage
+
+Der lauffaehige Demonstrator bleibt zunaechst in **Base44**. Der Link zur Base44-App kann im Abschlussbericht angegeben werden, damit Expertinnen und Experten die Suche praktisch testen koennen.
+
+Dieses GitHub-Repository hat eine andere Funktion: Es dokumentiert, was fachlich und technisch notwendig ist, um den Prototyp nachzuvollziehen oder spaeter ausserhalb von Base44 neu aufzubauen. Dazu gehoeren:
+
+- BPMN-Prozessmodell
+- bereinigter Metadatenkatalog
+- Masterkatalog der atomaren Anforderungen
+- Quellendokument- und Datenerhebungstabellen
+- Architektur- und Migrationsdokumentation
+- zentrale Skripte fuer Katalogaufbau und Weaviate-Anbindung
+
+Damit ist Base44 der **lauffaehige Prototyp**, waehrend GitHub die **oeffentliche technische Dokumentation und Uebergabe** bereitstellt.
+
 ## Aktueller Prototypstand
 
 - Atomare Anforderungen: 878
