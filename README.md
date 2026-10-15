@@ -8,12 +8,13 @@ Es enthaelt bewusst nur die wichtigsten Dateien fuer Nachvollziehbarkeit, Anschl
 
 Dieses Repository umfasst vier zentrale Bestandteile:
 
+- `agrardatenkatalog-bw_app/`: Dokumentation zur App **Agrardatenkatalog BW**
 - `bpmn/`: BPMN-2.0-Prozessdiagramm des DaVe-Kontexts
 - `data/`: Excel- und CSV-Kataloge zu Anforderungen, Datenerhebungen und Quellendokumenten
 - `docs/`: Architektur, Textbaustein fuer den Abschlussbericht und fachliche Einordnung
 - `scripts/`: zentrale Python-Skripte fuer Extraktion, Katalogaufbau und Weaviate-Anbindung
 
-Zusaetzlich enthaelt `app_base44/` die Dokumentation zur Base44-App **Agrardatenkatalog BW**.
+
 
 ## Agrardatenkatalog BW
 
